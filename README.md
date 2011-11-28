@@ -8,19 +8,19 @@
 
 ###Code
 
-<a short paragraph explaining where to find the code i.e. in which folder and how it is arranged etc. then use the following list to list down all the demos>
+a short paragraph explaining where to find the code i.e. in which folder and how it is arranged etc. then use the following list to list down all the demos
 
-*<example name or example title> - <sample description - what does this sample do?>
-*<example name or example title> - <sample description - what does this sample do?>
-*<example name or example title> - <sample description - what does this sample do?>
-*<example name or example title> - <sample description - what does this sample do?>
++ <example name or example title> - <sample description - what does this sample do?>
++ <example name or example title> - <sample description - what does this sample do?>
++ <example name or example title> - <sample description - what does this sample do?>
++ <example name or example title> - <sample description - what does this sample do?>
 
 
 ###Data
 
-*<data item i.e. any database?> - <descrition of the data item>
-*<data item i.e. any data files?> - <descrition of the data item>
-*<data item i.e. any input files?> - <descrition of the data item>
++ <data item i.e. any database?> - <descrition of the data item>
++ <data item i.e. any data files?> - <descrition of the data item>
++ <data item i.e. any input files?> - <descrition of the data item>
 
 ###Output
 
