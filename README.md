@@ -1,6 +1,6 @@
 #Aspose.<Product> for <Platform> Examples Repository
 
-<Description of the product>
+Description of the product
 
 
 
@@ -10,6 +10,7 @@
 
 a short paragraph explaining where to find the code i.e. in which folder and how it is arranged etc. then use the following list to list down all the demos
 
++ example name or example title - sample description - what does this sample do?
 + <example name or example title> - <sample description - what does this sample do?>
 + <example name or example title> - <sample description - what does this sample do?>
 + <example name or example title> - <sample description - what does this sample do?>
@@ -18,18 +19,19 @@ a short paragraph explaining where to find the code i.e. in which folder and how
 
 ###Data
 
++ data item i.e. any database? - descrition of the data item
 + <data item i.e. any database?> - <descrition of the data item>
 + <data item i.e. any data files?> - <descrition of the data item>
 + <data item i.e. any input files?> - <descrition of the data item>
 
 ###Output
 
-<a paragraph explaining where the user can find the output files etc.>
+A paragraph explaining where the user can find the output files etc.
 
 
 ###Help Material
 
-<is there any other helping material included in the sample project? If so, explain where it can be found.>
+Is there any other helping material included in the sample project? If so, explain where it can be found.
 
 ###Download these examples
 
@@ -37,7 +39,7 @@ Please [download the Aspose.<product name> for <platform> examples](<link to the
 
 ##How to use the examples?
 
-<Explain the user that how he can use these examples at his end>
+Explain the user that how he can use these examples at his end
 
 
 ##Contact Us
