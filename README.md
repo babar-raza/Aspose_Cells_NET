@@ -33,7 +33,7 @@ A paragraph explaining where the user can find the output files etc.
 
 Is there any other helping material included in the sample project? If so, explain where it can be found.
 
-###Download these examples
+##Download the examples
 
 Please [download the Aspose.<product name> for <platform> examples](<link to the repository home i.e. https://github.com/asposecells/Aspose_Cells_Java/downloads>/downloads) to try at your end.
 
@@ -47,6 +47,7 @@ Explain the user that how he can use these examples at his end
 + **Website:** [www.aspose.com](http://www.aspose.com)
 + **Product Home:** [<product name>](<product link>)
 + **Download:** [Downlolad <product name>](<product's download link)
++ **Documentation:** [<product name> Documentation](product's documentation link)
 + **Forum:** [<product name> Forum](<product family forum link>)
 + **Blog:** [<product name> Blog](<product family blog link>)
  
