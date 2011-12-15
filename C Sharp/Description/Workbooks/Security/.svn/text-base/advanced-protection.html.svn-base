@@ -1,0 +1,25 @@
+<table width="90%" align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="19" valign="top"><img src="/Common/images/heading_lft.jpg" alt="" width="19" height="41" /></td>
+    <td width="100%" class="demos-heading-bg"><h2 class="demos-heading-bg"> 
+    &nbsp;<font face="Arial" size="4">Advanced Protection Settings - Aspose.Cells</font></h2></td>
+    <td width="19" valign="top"><img src="/Common/images/heading_rt.jpg" alt="" width="19" height="41" /></td>
+  </tr>
+</table>
+<p class="componentDescriptionTxt">
+<font face="Arial" size="2">This online demo shows how to customizes the Advanced Protection Settings of the worksheet 
+in a workbook using <a
+href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">Aspose.Cells</a> 
+for .NET.</font></p>
+<p class="componentDescriptionTxt">
+<font face="Arial" size="2">These settings can only be implemented in MS Excel XP or greater versions. Aspose.Cells component provides some useful APIs to protect the worksheet
+even at the root level. There are a number of protection options available which
+you may set according to your need. For example, you may implement: whether the
+user is allowed to filter data, whether the user is allowed to do formatting of
+cells, rows / columns, whether the user can add hyperlinks to the cells, whether
+the user can do sorting of data in the worksheet, whether the user is authorized
+to insert new rows / columns or select the locked cells etc. The demo makes use
+of an existing excel file, opens it and implements some advanced protection settings
+in the first worksheet of the file. You can either open the resultant excel file
+into MS Excel or save directly to your disk to check the results. </font>
+</p>

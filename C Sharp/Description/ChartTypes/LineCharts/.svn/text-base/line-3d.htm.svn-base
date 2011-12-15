@@ -1,0 +1,61 @@
+<table width="90%" align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="19" valign="top"><img src="/Common/images/heading_lft.jpg" alt="" width="19" height="41" /></td>
+    <td width="100%" class="demos-heading-bg"><h2 class="demos-heading-bg">&nbsp;<font face="Arial" size="4">Line 3D - Aspose.Cells</font></h2></td>
+    <td width="19" valign="top"><img src="/Common/images/heading_rt.jpg" alt="" width="19" height="41" /></td>
+  </tr>
+</table>
+<p align="left">
+    <font color="black" face="Arial" style="background-color: whitesmoke">
+    <span style="color: black; background-color: white; mso-fareast-font-family: 'Times New Roman';
+                                mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">
+                                <font size="2">This online demo exhibits how to create a 
+    <span style="mso-bidi-font-weight: normal">Line</span>
+                                chart with a <strong style="font-weight: 400">3-D</strong> 
+    visual effect in a worksheet </font> </span></font>
+    <font size="2">
+    <span
+                style="font-family: Arial">using </span>
+    <font face="Arial">
+<a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+Aspose.Cells</a> for .NET</font></font><span
+                style="font-family: Arial"><font size="2">.</font></span></p>
+<p align="left">
+    <font color="black" face="Arial" style="background-color: whitesmoke" size="2">
+    <span style="color: black; background-color: white; mso-fareast-font-family: 'Times New Roman';
+                                mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">
+    <span style="mso-bidi-font-weight: normal">
+                                    Aspose.Cells</span> component supports all the standard and custom charts including
+                                <span style="mso-bidi-font-weight: normal">3-D</span> 
+    <span style="mso-bidi-font-weight: normal">
+                                    Line</span> chart to help you display data in more meaningful ways.  The demo creates a workbook first and inputs the chart source data into the
+                                first six columns (<span style="mso-bidi-font-weight: normal">A</span>, 
+    <span style="mso-bidi-font-weight: normal">
+                                    B</span>,<span style="mso-bidi-font-weight: normal"> C</span>,<span style="mso-bidi-font-weight: normal">
+                                        D</span>,<span style="mso-bidi-font-weight: normal"> E 
+    </span>and<span style="mso-bidi-font-weight: normal">
+                                            F</span>) of the first worksheet named 
+    <span style="mso-bidi-font-weight: normal">3D Line</span>.
+                                The first column presents different regions where as the second, third, fourth,
+                                fifth and sixth columns represent the sales data representing values involving different
+                                years (<span style="mso-bidi-font-weight: normal">2002</span> 
+    <span style="mso-bidi-font-weight: normal">
+                                    -</span> 
+    <span style="mso-bidi-font-weight: normal">2006</span>).  </span></font></p>
+<p align="left">
+    <font color="black" face="Arial" style="background-color: whitesmoke" size="2">
+    <span style="color: black; background-color: white; mso-fareast-font-family: 'Times New Roman';
+                                mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">
+                                The demo creates a
+                                3-D Line chart representing 
+    <span style="mso-bidi-font-weight: normal">Sales By Region
+                                </span>into the worksheet based on the different sales values of different regions
+                                in different years. In the demo, you are provided a sample snapshot of the chart,
+                                a few controls including four drop down lists which represent major tick mark type
+                                (None, Inside, Outside and Cross) and minor tick mark type (None, Inside, Outside
+                                and Cross) for values, value labels rotation angle and category labels rotation
+                                angle and a command button labeled 
+    <span style="mso-bidi-font-weight: normal">Create Report</span>
+                                to create and exercise the chart based on your selection from the drop down lists.
+                                You are allowed to either open the resultant excel file into MS Excel or save
+                                directly to your disk to check the results.</span></font></p>

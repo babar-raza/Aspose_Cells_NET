@@ -1,0 +1,24 @@
+<table width="90%" align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="19" valign="top"><img src="/Common/images/heading_lft.jpg" alt="" width="19" height="41" /></td>
+    <td width="100%" class="demos-heading-bg"><h2 class="demos-heading-bg"> 
+    <font face="Arial" size="4">&nbsp;Page Break Preview - Aspose.Cells</font></h2></td>
+    <td width="19" valign="top"><img src="/Common/images/heading_rt.jpg" alt="" width="19" height="41" /></td>
+  </tr>
+</table>
+<p class="componentDescriptionTxt">
+<font face="Arial" size="2">This online demo exhibits how to display a worksheet in Normal View or Page Break 
+Preview&nbsp; using
+<a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+Aspose.Cells</a> for .NET.</font></p>
+<p class="componentDescriptionTxt">
+<font face="Arial" size="2">All the worksheets can be viewed in two modes: Normal View and Page Break Preview. Aspose.Cells component allows you to implement these two modes with ease.
+You can set any type of view according to your need. The demo offers you two
+command buttons Hide and Display to exercise the tasks. When you click
+on Hide button, a workbook is created. It sets the normal view for the first
+worksheet in the workbook. It actually hides the page break preview mode. When you
+click on Display button, the demo creates an excel file and sets the page
+break preview mode for the first worksheet in the workbook. By default worksheet
+mode is normal view. You can either open the resultant excel files into MS Excel
+or save directly to your disk. </font>
+</p>

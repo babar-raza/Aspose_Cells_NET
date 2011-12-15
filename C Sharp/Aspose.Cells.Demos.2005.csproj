@@ -1,0 +1,1499 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{33FE8EF4-8ACE-44E3-94F7-7CC523EAFC99}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Aspose.Cells.Demos</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Aspose.Cells.Demos</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE;DEBUG;SITE_BUILD</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE;SITE_BUILD</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Aspose.Cells, Version=5.3.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Aspose\Aspose.Cells\NET\Aspose.Cells for .NET\5.3.0.0\Bin\net2.0\Aspose.Cells.dll</HintPath>
+    </Reference>
+    <Reference Include="Aspose.Demos.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ab721518795be73e, processorArchitecture=MSIL" />
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ChartTypes\AdvanceFeatures\adding-textbox-in-chart.aspx" />
+    <Content Include="ChartTypes\AdvanceFeatures\chart-datatable.aspx" />
+    <Content Include="ChartTypes\AdvanceFeatures\image-as-background-fillformat-of-chart.aspx" />
+    <Content Include="ChartTypes\AdvanceFeatures\using-sparklines.aspx" />
+    <Content Include="ChartTypes\AreaCharts\area.aspx" />
+    <Content Include="ChartTypes\AreaCharts\percent-stacked-area.aspx" />
+    <Content Include="ChartTypes\AreaCharts\stacked-area.aspx" />
+    <Content Include="ChartTypes\BarCharts\clustered-bar.aspx" />
+    <Content Include="ChartTypes\BarCharts\percent-stacked-bar.aspx" />
+    <Content Include="ChartTypes\BarCharts\stacked-bar.aspx" />
+    <Content Include="ChartTypes\ColumnCharts\clustered-column.aspx" />
+    <Content Include="ChartTypes\ColumnCharts\column-3d.aspx" />
+    <Content Include="ChartTypes\ColumnCharts\percent-stacked-column.aspx" />
+    <Content Include="ChartTypes\ColumnCharts\stacked-column.aspx" />
+    <Content Include="ChartTypes\ConeCharts\cone-bar.aspx" />
+    <Content Include="ChartTypes\ConeCharts\cone-column-3d.aspx" />
+    <Content Include="ChartTypes\ConeCharts\cone-column.aspx" />
+    <Content Include="ChartTypes\ConeCharts\cone-percent-stacked.aspx" />
+    <Content Include="ChartTypes\CylinderCharts\cylinder-bar.aspx" />
+    <Content Include="ChartTypes\CylinderCharts\cylinder-column.aspx" />
+    <Content Include="ChartTypes\CylinderCharts\cylinder-percent-stacked.aspx" />
+    <Content Include="ChartTypes\CylinderCharts\cylinderical-column-3d.aspx" />
+    <Content Include="ChartTypes\CylinderConePyramidCharts\bar-chart.aspx" />
+    <Content Include="ChartTypes\CylinderConePyramidCharts\column-3d.aspx" />
+    <Content Include="ChartTypes\CylinderConePyramidCharts\column-chart.aspx" />
+    <Content Include="ChartTypes\CylinderConePyramidCharts\stacked-100.aspx" />
+    <Content Include="ChartTypes\DoughnutCharts\doughnut.aspx" />
+    <Content Include="ChartTypes\DoughnutCharts\exploded-doughnut.aspx" />
+    <Content Include="ChartTypes\LineCharts\line-3d.aspx" />
+    <Content Include="ChartTypes\LineCharts\line.aspx" />
+    <Content Include="ChartTypes\LineCharts\percent-stacked-line.aspx" />
+    <Content Include="ChartTypes\LineCharts\stacked-line.aspx" />
+    <Content Include="ChartTypes\PieCharts\bar-of-pie.aspx" />
+    <Content Include="ChartTypes\PieCharts\exploded-pie.aspx" />
+    <Content Include="ChartTypes\PieCharts\pie-of-pie.aspx" />
+    <Content Include="ChartTypes\PieCharts\pie.aspx" />
+    <Content Include="ChartTypes\PyramidCharts\pyramid-bar.aspx" />
+    <Content Include="ChartTypes\PyramidCharts\pyramid-column-3d.aspx" />
+    <Content Include="ChartTypes\PyramidCharts\pyramid-column.aspx" />
+    <Content Include="ChartTypes\PyramidCharts\pyramid-percent-stacked.aspx" />
+    <Content Include="ChartTypes\RadarCharts\filled-radar.aspx" />
+    <Content Include="ChartTypes\RadarCharts\radar.aspx" />
+    <Content Include="ChartTypes\ScatterCharts\scatter-connected-by-lines.aspx" />
+    <Content Include="ChartTypes\ScatterCharts\scatter.aspx" />
+    <Content Include="ChartTypes\StockCharts\high-low-close.aspx" />
+    <Content Include="ChartTypes\StockCharts\open-high-low-close.aspx" />
+    <Content Include="ChartTypes\SurfaceCharts\Contour.aspx" />
+    <Content Include="ChartTypes\SurfaceCharts\surface-3d.aspx" />
+    <Content Include="Conversion\chart-to-image-with-imageoptions.aspx" />
+    <Content Include="Conversion\convert-worksheet-to-image-with-multiple-printarea.aspx" />
+    <Content Include="Conversion\adding-pdf-bookmarks.aspx" />
+    <Content Include="Conversion\convert-workbook-to-image.aspx" />
+    <Content Include="Conversion\worksheet-to-image-with-imageoptions.aspx" />
+    <Content Include="Description\business-reports.html" />
+    <Content Include="Description\BusinessReports\cost-pareto.htm" />
+    <Content Include="Description\BusinessReports\financial-plan.htm" />
+    <Content Include="Description\chart-demos.html" />
+    <Content Include="Description\ChartTypes\AreaCharts\area.htm" />
+    <Content Include="Description\ChartTypes\AreaCharts\percent-stacked-area.htm" />
+    <Content Include="Description\ChartTypes\AreaCharts\stacked-area.htm" />
+    <Content Include="Description\ChartTypes\BarCharts\clustered-bar.htm" />
+    <Content Include="Description\ChartTypes\BarCharts\percent-stacked-bar.htm" />
+    <Content Include="Description\ChartTypes\BarCharts\stacked-bar.htm" />
+    <Content Include="Description\ChartTypes\ColumnCharts\clustered-column.htm" />
+    <Content Include="Description\ChartTypes\ColumnCharts\column-3d.htm" />
+    <Content Include="Description\ChartTypes\ColumnCharts\percent-stacked-column.htm" />
+    <Content Include="Description\ChartTypes\ColumnCharts\stacked-column.htm" />
+    <Content Include="Description\ChartTypes\ConeCharts\cone-bar.htm" />
+    <Content Include="Description\ChartTypes\ConeCharts\cone-column-3d.htm" />
+    <Content Include="Description\ChartTypes\ConeCharts\cone-column.htm" />
+    <Content Include="Description\ChartTypes\ConeCharts\cone-percent-stacked.htm" />
+    <Content Include="Description\ChartTypes\CylinderCharts\cylinder-bar.htm" />
+    <Content Include="Description\ChartTypes\CylinderCharts\cylinder-column.htm" />
+    <Content Include="Description\ChartTypes\CylinderCharts\cylinder-percent-stacked.htm" />
+    <Content Include="Description\ChartTypes\CylinderCharts\cylindrical-column-3d.htm" />
+    <Content Include="Description\ChartTypes\CylinderConePyramidCharts\bar-chart.htm" />
+    <Content Include="Description\ChartTypes\CylinderConePyramidCharts\column-3d.htm" />
+    <Content Include="Description\ChartTypes\CylinderConePyramidCharts\column-chart.htm" />
+    <Content Include="Description\ChartTypes\CylinderConePyramidCharts\stacked-100.htm" />
+    <Content Include="Description\ChartTypes\DoughnutCharts\doughnut.htm" />
+    <Content Include="Description\ChartTypes\DoughnutCharts\exploded-doughnut.htm" />
+    <Content Include="Description\ChartTypes\LineCharts\line-3d.htm" />
+    <Content Include="Description\ChartTypes\LineCharts\line.htm" />
+    <Content Include="Description\ChartTypes\LineCharts\percent-stacked-line.htm" />
+    <Content Include="Description\ChartTypes\LineCharts\stacked-line.htm" />
+    <Content Include="Description\ChartTypes\PieCharts\bar-of-pie.htm" />
+    <Content Include="Description\ChartTypes\PieCharts\exploded-pie.htm" />
+    <Content Include="Description\ChartTypes\PieCharts\pie-of-pie.htm" />
+    <Content Include="Description\ChartTypes\PieCharts\pie.htm" />
+    <Content Include="Description\ChartTypes\PyramidCharts\pyramid-bar.htm" />
+    <Content Include="Description\ChartTypes\PyramidCharts\pyramid-column-3d.htm" />
+    <Content Include="Description\ChartTypes\PyramidCharts\pyramid-column.htm" />
+    <Content Include="Description\ChartTypes\PyramidCharts\pyramid-percent-stacked.htm" />
+    <Content Include="Description\ChartTypes\RadarCharts\filled-radar.htm" />
+    <Content Include="Description\ChartTypes\RadarCharts\radar.htm" />
+    <Content Include="Description\ChartTypes\ScatterCharts\scatter-connected-by-lines.htm" />
+    <Content Include="Description\ChartTypes\ScatterCharts\scatter.htm" />
+    <Content Include="Description\ChartTypes\StockCharts\high-low-close.htm" />
+    <Content Include="Description\ChartTypes\StockCharts\open-high-low-close.htm" />
+    <Content Include="Description\ChartTypes\SurfaceCharts\contour.htm" />
+    <Content Include="Description\ChartTypes\SurfaceCharts\surface-3d.htm" />
+    <Content Include="Description\conversion.html" />
+    <Content Include="Description\Conversion\convert-chart-to-image-file.html" />
+    <Content Include="Description\Conversion\convert-worksheet-to-image-file.html" />
+    <Content Include="Description\Northwind\catalog-form.html" />
+    <Content Include="Description\Northwind\catalog-subreport-form.html" />
+    <Content Include="Description\Northwind\customer-labels-form.html" />
+    <Content Include="Description\Northwind\employee-sales-form.html" />
+    <Content Include="Description\Northwind\invoice-form.html" />
+    <Content Include="Description\Northwind\product-list-form.html" />
+    <Content Include="Description\Northwind\products-by-category-form.html" />
+    <Content Include="Description\Northwind\sales-by-category-form.html" />
+    <Content Include="Description\Northwind\sales-by-category-subreport-form.html" />
+    <Content Include="Description\Northwind\sales-by-year-form.html" />
+    <Content Include="Description\Northwind\sales-by-year-subreport-form.html" />
+    <Content Include="Description\Northwind\sales-totals-form.html" />
+    <Content Include="Description\Northwind\summary-by-quarter-form.html" />
+    <Content Include="Description\Northwind\summary-by-year-form.html" />
+    <Content Include="Description\school-report.html" />
+    <Content Include="Description\smart-marker.html" />
+    <Content Include="Description\SmartMarker\designer.htm" />
+    <Content Include="Description\SmartMarker\result.htm" />
+    <Content Include="Description\workbook-demos.html" />
+    <Content Include="Description\Workbooks\Controls\adding-checkbox.html" />
+    <Content Include="Description\Workbooks\Controls\adding-combobox.html" />
+    <Content Include="Description\Workbooks\Controls\adding-radiobutton.html" />
+    <Content Include="Description\Workbooks\Controls\adding-textbox.html" />
+    <Content Include="Description\Workbooks\Data\adding-hyperlinks.html" />
+    <Content Include="Description\Workbooks\Data\calculate-formula.htm" />
+    <Content Include="Description\Workbooks\Data\create-list-object.html" />
+    <Content Include="Description\Workbooks\Data\data-filter.html" />
+    <Content Include="Description\Workbooks\Data\data-sorting.html" />
+    <Content Include="Description\Workbooks\Data\data-validation.html" />
+    <Content Include="Description\Workbooks\Data\export-data.html" />
+    <Content Include="Description\Workbooks\Data\find-or-search-data.html" />
+    <Content Include="Description\Workbooks\Data\hello-world.html" />
+    <Content Include="Description\Workbooks\Data\implement-union-and-intersection-of-ranges.html" />
+    <Content Include="Description\Workbooks\Data\importing-data.html" />
+    <Content Include="Description\Workbooks\Data\named-ranges.html" />
+    <Content Include="Description\Workbooks\Data\set-formula.html" />
+    <Content Include="Description\Workbooks\DrawingObjects\adding-comments.html" />
+    <Content Include="Description\Workbooks\DrawingObjects\adding-pictures.html" />
+    <Content Include="Description\Workbooks\DrawingObjects\other-drawing-objects.html" />
+    <Content Include="Description\Workbooks\Formatting\alignment-setting.html" />
+    <Content Include="Description\Workbooks\Formatting\border-setting.html" />
+    <Content Include="Description\Workbooks\Formatting\font-setting.html" />
+    <Content Include="Description\Workbooks\Formatting\formatting-range.html" />
+    <Content Include="Description\Workbooks\Formatting\number-formatting.html" />
+    <Content Include="Description\Workbooks\Formatting\pattern-setting.html" />
+    <Content Include="Description\Workbooks\PageSetup\headers-and-footers.html" />
+    <Content Include="Description\Workbooks\PageSetup\page-breaks.html" />
+    <Content Include="Description\Workbooks\PageSetup\setting-margins.html" />
+    <Content Include="Description\Workbooks\PageSetup\setting-page-options.html" />
+    <Content Include="Description\Workbooks\PageSetup\setting-print-options.html" />
+    <Content Include="Description\Workbooks\RowsAndColumns\adjusting-rows-and-columns.html" />
+    <Content Include="Description\Workbooks\RowsAndColumns\auto-fit-rows-and-columns.html" />
+    <Content Include="Description\Workbooks\RowsAndColumns\grouping-rows-and-columns.html" />
+    <Content Include="Description\Workbooks\RowsAndColumns\hiding-rows-and-columns.html" />
+    <Content Include="Description\Workbooks\RowsAndColumns\inserting-and-deleting-rows-and-columns.html" />
+    <Content Include="Description\Workbooks\Security\advanced-protection.html" />
+    <Content Include="Description\Workbooks\Security\encrypt-an-excel-file.html" />
+    <Content Include="Description\Workbooks\Security\protecting-worksheet.html" />
+    <Content Include="Description\Workbooks\Security\unprotect-a-worksheet.html" />
+    <Content Include="Description\Workbooks\Worksheets\display-hide-gridlines.html" />
+    <Content Include="Description\Workbooks\Worksheets\display-hide-rows-columns.html" />
+    <Content Include="Description\Workbooks\Worksheets\display-hide-scroll-bars.html" />
+    <Content Include="Description\Workbooks\Worksheets\display-hide-tabs.html" />
+    <Content Include="Description\Workbooks\Worksheets\display-hide-worksheet.html" />
+    <Content Include="Description\Workbooks\Worksheets\freeze-panes.html" />
+    <Content Include="Description\Workbooks\Worksheets\managing-worksheets.html" />
+    <Content Include="Description\Workbooks\Worksheets\page-break-preview.html" />
+    <Content Include="Description\Workbooks\Worksheets\zoom-factor.html" />
+    <Content Include="BusinessReports\cost-pareto.aspx" />
+    <Content Include="BusinessReports\financial-plan.aspx" />
+    <Content Include="Conversion\convert-chart-to-image-file.aspx" />
+    <Content Include="Conversion\convert-workbook-to-pdf-file.aspx" />
+    <Content Include="Conversion\convert-worksheet-to-image-file.aspx" />
+    <Content Include="Database\CostPareto.xml" />
+    <Content Include="Database\demos.mdb">
+    </Content>
+    <Content Include="Database\Northwind.mdb">
+    </Content>
+    <Content Include="images\addrec.gif" />
+    <Content Include="images\album.gif" />
+    <Content Include="images\arrow_forward.gif" />
+    <Content Include="images\Aspose.Banner.gif" />
+    <Content Include="images\Aspose.Grid.gif" />
+    <Content Include="images\BodyBG.gif" />
+    <Content Include="images\button1.bmp" />
+    <Content Include="images\button2.bmp" />
+    <Content Include="images\button_run.gif" />
+    <Content Include="images\c.gif" />
+    <Content Include="images\cmdds.PNG" />
+    <Content Include="images\delrec.gif" />
+    <Content Include="images\designer1.JPG" />
+    <Content Include="images\designer2.JPG" />
+    <Content Include="images\guizhou_closeall.gif" />
+    <Content Include="images\guizhou_openall.gif" />
+    <Content Include="images\Nav2.gif" />
+    <Content Include="images\submit.gif" />
+    <Content Include="images\tablebacground001.gif" />
+    <Content Include="images\tablebacground002.gif" />
+    <Content Include="images\tablebacground003.gif" />
+    <Content Include="images\tablebacground004.gif" />
+    <Content Include="images\tablebacground005.gif" />
+    <Content Include="images\tree\blank.gif" />
+    <Content Include="images\tree\image001.gif" />
+    <Content Include="images\tree\image002.gif" />
+    <Content Include="images\tree\image003.gif" />
+    <Content Include="images\tree\image004.gif" />
+    <Content Include="images\tree\image005.gif" />
+    <Content Include="images\tree\image006.gif" />
+    <Content Include="images\tree\treebackground.gif" />
+    <Content Include="images\updatedb.gif" />
+    <Content Include="images\vb.gif" />
+    <Content Include="images\wsd1.PNG" />
+    <Content Include="images\wsd2.PNG" />
+    <Content Include="Image\Area.jpg" />
+    <Content Include="Image\BarofPie.jpg" />
+    <Content Include="Image\bluedrop.gif" />
+    <Content Include="Image\blueup.gif" />
+    <Content Include="Image\businessreports.gif" />
+    <Content Include="Image\chart.gif" />
+    <Content Include="Image\ClusteredBar.jpg" />
+    <Content Include="Image\ClusteredColumn.jpg" />
+    <Content Include="Image\Column3D.jpg" />
+    <Content Include="Image\ConeBar.jpg" />
+    <Content Include="Image\ConeColumn.jpg" />
+    <Content Include="Image\ConeColumn3D.jpg" />
+    <Content Include="Image\ConePercentStacked.jpg" />
+    <Content Include="Image\Contour.jpg" />
+    <Content Include="Image\CustomDocumentProperties.jpg" />
+    <Content Include="Image\CylinderBar.jpg" />
+    <Content Include="Image\CylinderColumn.jpg" />
+    <Content Include="Image\CylindericalColumn3D.jpg" />
+    <Content Include="Image\CylinderPercentStacked.jpg" />
+    <Content Include="Image\Doughnut.jpg" />
+    <Content Include="Image\ExplodedDoughnut.jpg" />
+    <Content Include="Image\ExplodedPie.jpg" />
+    <Content Include="Image\FilledRadar.jpg" />
+    <Content Include="Image\HighLowClose.jpg" />
+    <Content Include="Image\Line.jpg" />
+    <Content Include="Image\Line3D.jpg" />
+    <Content Include="Image\logo.jpg" />
+    <Content Include="Image\namelogo.jpg" />
+    <Content Include="Image\northwind.gif" />
+    <Content Include="Image\OpenHighLowClose.jpg" />
+    <Content Include="Image\PercentStackedArea.jpg" />
+    <Content Include="Image\PercentStackedBar.jpg" />
+    <Content Include="Image\PercentStackedColumn.jpg" />
+    <Content Include="Image\PercentStackedLine.jpg" />
+    <Content Include="Image\Pie.jpg" />
+    <Content Include="Image\PieofPie.jpg" />
+    <Content Include="Image\PyramidBar.jpg" />
+    <Content Include="Image\PyramidColumn.jpg" />
+    <Content Include="Image\PyramidColumn3D.jpg" />
+    <Content Include="Image\PyramidPercentStacked.jpg" />
+    <Content Include="Image\quickstart.gif" />
+    <Content Include="Image\Radar.jpg" />
+    <Content Include="Image\RadarUnfilled.jpg" />
+    <Content Include="Image\Scatter.jpg" />
+    <Content Include="Image\ScatterConnectedByLines.jpg" />
+    <Content Include="Image\school.JPG" />
+    <Content Include="Image\schoolreportcard.gif" />
+    <Content Include="Image\smartmarker.gif" />
+    <Content Include="Image\StackedArea.jpg" />
+    <Content Include="Image\StackedBar.jpg" />
+    <Content Include="Image\StackedColumn.jpg" />
+    <Content Include="Image\StackedLine.jpg" />
+    <Content Include="Image\Surface3D.jpg" />
+    <Content Include="Image\wellcomeasposecells.gif" />
+    <Content Include="js\dtree.js" />
+    <Content Include="js\oo.js" />
+    <Content Include="Northwind\catalog-form.aspx" />
+    <Content Include="Northwind\catalog-subreport-form.aspx" />
+    <Content Include="Northwind\customer-labels-form.aspx" />
+    <Content Include="Northwind\employee-sales-form.aspx" />
+    <Content Include="Northwind\invoice-form.aspx" />
+    <Content Include="Northwind\product-list-form.aspx" />
+    <Content Include="Northwind\products-by-category-form.aspx" />
+    <Content Include="Northwind\sales-by-category-form.aspx" />
+    <Content Include="Northwind\sales-by-category-subreport-form.aspx" />
+    <Content Include="Northwind\sales-by-year-form.aspx" />
+    <Content Include="Northwind\sales-by-year-subreport-form.aspx" />
+    <Content Include="Northwind\sales-totals-form.aspx" />
+    <Content Include="Northwind\summary-by-quarter-form.aspx" />
+    <Content Include="Northwind\summary-by-year-form.aspx" />
+    <Content Include="SmartMarker\designer.aspx" />
+    <Content Include="SmartMarker\result.aspx" />
+    <Content Include="tpl\Demo.Master" />
+    <Compile Include="ChartTypes\AdvanceFeatures\adding-textbox-in-chart.aspx.cs">
+      <DependentUpon>adding-textbox-in-chart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\AdvanceFeatures\chart-datatable.aspx.cs">
+      <DependentUpon>chart-datatable.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\AdvanceFeatures\image-as-background-fillformat-of-chart.aspx.cs">
+      <DependentUpon>image-as-background-fillformat-of-chart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\AdvanceFeatures\image-as-background-fillformat-of-chart.aspx.designer.cs">
+      <DependentUpon>image-as-background-fillformat-of-chart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChartTypes\AdvanceFeatures\using-sparklines.aspx.cs">
+      <DependentUpon>using-sparklines.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\AreaCharts\Area.aspx.cs">
+      <DependentUpon>area.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\AreaCharts\percent-stacked-area.aspx.cs">
+      <DependentUpon>percent-stacked-area.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\AreaCharts\stacked-area.aspx.cs">
+      <DependentUpon>stacked-area.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\BarCharts\clustered-bar.aspx.cs">
+      <DependentUpon>clustered-bar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\BarCharts\percent-stacked-bar.aspx.cs">
+      <DependentUpon>percent-stacked-bar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\BarCharts\stacked-bar.aspx.cs">
+      <DependentUpon>stacked-bar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\ColumnCharts\clustered-column.aspx.cs">
+      <DependentUpon>clustered-column.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\ColumnCharts\column-3d.aspx.cs">
+      <DependentUpon>column-3d.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\ColumnCharts\percent-stacked-column.aspx.cs">
+      <DependentUpon>percent-stacked-column.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\ColumnCharts\stacked-column.aspx.cs">
+      <DependentUpon>stacked-column.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\ConeCharts\cone-bar.aspx.cs">
+      <DependentUpon>cone-bar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\ConeCharts\cone-column-3d.aspx.cs">
+      <DependentUpon>cone-column-3d.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\ConeCharts\cone-column.aspx.cs">
+      <DependentUpon>cone-column.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\ConeCharts\cone-percent-stacked.aspx.cs">
+      <DependentUpon>cone-percent-stacked.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\CylinderCharts\cylinder-bar.aspx.cs">
+      <DependentUpon>cylinder-bar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\CylinderCharts\cylinder-column.aspx.cs">
+      <DependentUpon>cylinder-column.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\CylinderCharts\cylinder-percent-stacked.aspx.cs">
+      <DependentUpon>cylinder-percent-stacked.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\CylinderCharts\cylinderical-column-3d.aspx.cs">
+      <DependentUpon>cylinderical-column-3d.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\CylinderConePyramidCharts\bar-chart.aspx.cs">
+      <DependentUpon>bar-chart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\CylinderConePyramidCharts\column-3d.aspx.cs">
+      <DependentUpon>column-3d.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\CylinderConePyramidCharts\column-chart.aspx.cs">
+      <DependentUpon>column-chart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\CylinderConePyramidCharts\stacked-100.aspx.cs">
+      <DependentUpon>stacked-100.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\DoughnutCharts\Doughnut.aspx.cs">
+      <DependentUpon>doughnut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\DoughnutCharts\exploded-doughnut.aspx.cs">
+      <DependentUpon>exploded-doughnut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\LineCharts\line-3d.aspx.cs">
+      <DependentUpon>line-3d.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\LineCharts\Line.aspx.cs">
+      <DependentUpon>line.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\LineCharts\percent-stacked-line.aspx.cs">
+      <DependentUpon>percent-stacked-line.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\LineCharts\stacked-line.aspx.cs">
+      <DependentUpon>stacked-line.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\PieCharts\bar-of-pie.aspx.cs">
+      <DependentUpon>bar-of-pie.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\PieCharts\exploded-pie.aspx.cs">
+      <DependentUpon>exploded-pie.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\PieCharts\pie-of-pie.aspx.cs">
+      <DependentUpon>pie-of-pie.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\PieCharts\Pie.aspx.cs">
+      <DependentUpon>pie.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\PyramidCharts\pyramid-bar.aspx.cs">
+      <DependentUpon>pyramid-bar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\PyramidCharts\pyramid-column-3d.aspx.cs">
+      <DependentUpon>pyramid-column-3d.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\PyramidCharts\pyramid-column.aspx.cs">
+      <DependentUpon>pyramid-column.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\PyramidCharts\pyramid-percent-stacked.aspx.cs">
+      <DependentUpon>pyramid-percent-stacked.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\RadarCharts\filled-radar.aspx.cs">
+      <DependentUpon>filled-radar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\RadarCharts\Radar.aspx.cs">
+      <DependentUpon>radar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\ScatterCharts\scatter-connected-by-lines.aspx.cs">
+      <DependentUpon>scatter-connected-by-lines.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\ScatterCharts\Scatter.aspx.cs">
+      <DependentUpon>scatter.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\StockCharts\high-low-close.aspx.cs">
+      <DependentUpon>high-low-close.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\StockCharts\open-high-low-close.aspx.cs">
+      <DependentUpon>open-high-low-close.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\SurfaceCharts\Contour.aspx.cs">
+      <DependentUpon>Contour.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChartTypes\SurfaceCharts\surface-3d.aspx.cs">
+      <DependentUpon>surface-3d.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\chart-to-image-with-imageoptions.aspx.cs">
+      <DependentUpon>chart-to-image-with-imageoptions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\chart-to-image-with-imageoptions.aspx.designer.cs">
+      <DependentUpon>chart-to-image-with-imageoptions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Conversion\convert-worksheet-to-image-with-multiple-printarea.aspx.cs">
+      <DependentUpon>convert-worksheet-to-image-with-multiple-printarea.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\convert-worksheet-to-image-with-multiple-printarea.aspx.designer.cs">
+      <DependentUpon>convert-worksheet-to-image-with-multiple-printarea.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Conversion\adding-pdf-bookmarks.aspx.cs">
+      <DependentUpon>adding-pdf-bookmarks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\adding-pdf-bookmarks.aspx.designer.cs">
+      <DependentUpon>adding-pdf-bookmarks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Conversion\convert-workbook-to-image.aspx.cs">
+      <DependentUpon>convert-workbook-to-image.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\convert-workbook-to-image.aspx.designer.cs">
+      <DependentUpon>convert-workbook-to-image.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Conversion\worksheet-to-image-with-imageoptions.aspx.cs">
+      <DependentUpon>worksheet-to-image-with-imageoptions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\worksheet-to-image-with-imageoptions.aspx.designer.cs">
+      <DependentUpon>worksheet-to-image-with-imageoptions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="business-reports.aspx.cs">
+      <DependentUpon>business-reports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BusinessReports\cost-pareto.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>cost-pareto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessReports\cost-pareto.aspx.designer.cs">
+      <DependentUpon>cost-pareto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessReports\financial-plan.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>financial-plan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessReports\financial-plan.aspx.designer.cs">
+      <DependentUpon>financial-plan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="chart-demos.aspx.cs">
+      <DependentUpon>chart-demos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\convert-chart-to-image-file.aspx.cs">
+      <DependentUpon>convert-chart-to-image-file.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\convert-chart-to-image-file.aspx.designer.cs">
+      <DependentUpon>convert-chart-to-image-file.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Conversion\convert-workbook-to-pdf-file.aspx.cs">
+      <DependentUpon>convert-workbook-to-pdf-file.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\convert-workbook-to-pdf-file.aspx.designer.cs">
+      <DependentUpon>convert-workbook-to-pdf-file.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Conversion\convert-worksheet-to-image-file.aspx.cs">
+      <DependentUpon>convert-worksheet-to-image-file.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\convert-worksheet-to-image-file.aspx.designer.cs">
+      <DependentUpon>convert-worksheet-to-image-file.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Database\Catalog.cs" />
+    <Compile Include="Database\CatalogSubreport.cs" />
+    <Compile Include="Database\CustomerLabels.cs" />
+    <Compile Include="Database\DbBase.cs" />
+    <Compile Include="Database\EmployeeSales.cs" />
+    <Compile Include="Database\Invoice.cs" />
+    <Compile Include="Database\ProductsByCategory.cs" />
+    <Compile Include="Database\ProductsList.cs" />
+    <Compile Include="Database\SalesByCategory.cs" />
+    <Compile Include="Database\SalesByCategorySubreport.cs" />
+    <Compile Include="Database\SalesByYear.cs" />
+    <Compile Include="Database\SalesByYearSubreport.cs" />
+    <Compile Include="Database\SalesTotals.cs" />
+    <Compile Include="Database\SummaryByQuarter.cs" />
+    <Compile Include="Database\SummaryByYear.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Northwind.aspx.cs">
+      <DependentUpon>northwind.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Northwind\catalog-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>catalog-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\catalog-form.aspx.designer.cs">
+      <DependentUpon>catalog-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\catalog-subreport-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>catalog-subreport-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\catalog-subreport-form.aspx.designer.cs">
+      <DependentUpon>catalog-subreport-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\customer-labels-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>customer-labels-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\customer-labels-form.aspx.designer.cs">
+      <DependentUpon>customer-labels-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\employee-sales-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>employee-sales-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\employee-sales-form.aspx.designer.cs">
+      <DependentUpon>employee-sales-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\invoice-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>invoice-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\invoice-form.aspx.designer.cs">
+      <DependentUpon>invoice-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\product-list-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>product-list-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\product-list-form.aspx.designer.cs">
+      <DependentUpon>product-list-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\products-by-category-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>products-by-category-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\products-by-category-form.aspx.designer.cs">
+      <DependentUpon>products-by-category-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\sales-by-category-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>sales-by-category-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\sales-by-category-form.aspx.designer.cs">
+      <DependentUpon>sales-by-category-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\sales-by-category-subreport-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>sales-by-category-subreport-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\sales-by-category-subreport-form.aspx.designer.cs">
+      <DependentUpon>sales-by-category-subreport-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\sales-by-year-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>sales-by-year-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\sales-by-year-form.aspx.designer.cs">
+      <DependentUpon>sales-by-year-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\sales-by-year-subreport-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>sales-by-year-subreport-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\sales-by-year-subreport-form.aspx.designer.cs">
+      <DependentUpon>sales-by-year-subreport-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\sales-totals-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>sales-totals-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\sales-totals-form.aspx.designer.cs">
+      <DependentUpon>sales-totals-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\summary-by-quarter-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>summary-by-quarter-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\summary-by-quarter-form.aspx.designer.cs">
+      <DependentUpon>summary-by-quarter-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\summary-by-year-form.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>summary-by-year-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Northwind\summary-by-year-form.aspx.designer.cs">
+      <DependentUpon>summary-by-year-form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="school-report.aspx.cs">
+      <DependentUpon>school-report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="smart-marker.aspx.cs">
+      <DependentUpon>smart-marker.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SmartMarker\designer.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>designer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SmartMarker\designer.aspx.designer.cs">
+      <DependentUpon>designer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SmartMarker\Result.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>result.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SmartMarker\Result.aspx.designer.cs">
+      <DependentUpon>result.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Util.cs" />
+    <Compile Include="workbook-demos.aspx.cs">
+      <DependentUpon>workbook-demos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Controls\adding-checkbox.aspx.cs">
+      <DependentUpon>adding-checkbox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Controls\adding-combobox.aspx.cs">
+      <DependentUpon>adding-combobox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Controls\adding-radiobutton.aspx.cs">
+      <DependentUpon>adding-radiobutton.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Controls\adding-textbox.aspx.cs">
+      <DependentUpon>adding-textbox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DataValidation\date-validation.aspx.cs">
+      <DependentUpon>date-validation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DataValidation\decimal-number-validation.aspx.cs">
+      <DependentUpon>decimal-number-validation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DataValidation\list-data-validation.aspx.cs">
+      <DependentUpon>list-data-validation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DataValidation\text-length-validation.aspx.cs">
+      <DependentUpon>text-length-validation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DataValidation\time-validation.aspx.cs">
+      <DependentUpon>time-validation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DataValidation\whole-number-validation.aspx.cs">
+      <DependentUpon>whole-number-validation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\adding-hyperlinks.aspx.cs">
+      <DependentUpon>adding-hyperlinks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\calculate-formula.aspx.cs">
+      <DependentUpon>calculate-formula.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\data-filter.aspx.cs">
+      <DependentUpon>data-filter.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\data-sorting.aspx.cs">
+      <DependentUpon>data-sorting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\export-data.aspx.cs">
+      <DependentUpon>export-data.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\find-or-search-data.aspx.cs">
+      <DependentUpon>find-or-search-data.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\hello-world.aspx.cs">
+      <DependentUpon>hello-world.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\implement-union-and-intersection-of-ranges.aspx.cs">
+      <DependentUpon>implement-union-and-intersection-of-ranges.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\implement-union-and-intersection-of-ranges.aspx.designer.cs">
+      <DependentUpon>implement-union-and-intersection-of-ranges.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workbooks\Data\importing-data.aspx.cs">
+      <DependentUpon>importing-data.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\named-ranges.aspx.cs">
+      <DependentUpon>named-ranges.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\non-sequenced-named-ranges.aspx.cs">
+      <DependentUpon>non-sequenced-named-ranges.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\set-formula.aspx.cs">
+      <DependentUpon>set-formula.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Data\using-icustom-function.aspx.cs">
+      <DependentUpon>using-icustom-function.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DrawingObjects\adding-comments.aspx.cs">
+      <DependentUpon>adding-comments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DrawingObjects\adding-image-from-web.aspx.cs">
+      <DependentUpon>adding-image-from-web.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DrawingObjects\adding-image-hyperlink.aspx.cs">
+      <DependentUpon>adding-image-hyperlink.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DrawingObjects\adding-pictures.aspx.cs">
+      <DependentUpon>adding-pictures.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DrawingObjects\adding-wordart.aspx.cs">
+      <DependentUpon>adding-wordart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DrawingObjects\extracting-ole-object.aspx.cs">
+      <DependentUpon>extracting-ole-object.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DrawingObjects\inserting-ole-object.aspx.cs">
+      <DependentUpon>inserting-ole-object.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\DrawingObjects\other-drawing-objects.aspx.cs">
+      <DependentUpon>other-drawing-objects.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\alignment-setting.aspx.cs">
+      <DependentUpon>alignment-setting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\border-setting.aspx.cs">
+      <DependentUpon>border-setting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\conditional-formatting.aspx.cs">
+      <DependentUpon>conditional-formatting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\font-setting.aspx.cs">
+      <DependentUpon>font-setting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\formatting-range.aspx.cs">
+      <DependentUpon>formatting-range.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\merge-unmerge-cells.aspx.cs">
+      <DependentUpon>merge-unmerge-cells.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\modify-existing-style.aspx.cs">
+      <DependentUpon>modify-existing-style.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\number-formatting.aspx.cs">
+      <DependentUpon>number-formatting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\pattern-setting.aspx.cs">
+      <DependentUpon>pattern-setting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\rich-text-formatting.aspx.cs">
+      <DependentUpon>rich-text-formatting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\setting-gradient-fill.aspx.cs">
+      <DependentUpon>setting-gradient-fill.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\superscript-subscript-effects.aspx.cs">
+      <DependentUpon>superscript-subscript-effects.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Formatting\text-wrapping.aspx.cs">
+      <DependentUpon>text-wrapping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\ListObject\create-list-object.aspx.cs">
+      <DependentUpon>create-list-object.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\ListObject\create-list-object.aspx.designer.cs">
+      <DependentUpon>create-list-object.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workbooks\ListObject\format-list-object.aspx.cs">
+      <DependentUpon>format-list-object.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\PageSetup\headers-and-footers.aspx.cs">
+      <DependentUpon>headers-and-footers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\PageSetup\page-breaks.aspx.cs">
+      <DependentUpon>page-breaks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\PageSetup\setting-margins.aspx.cs">
+      <DependentUpon>setting-margins.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\PageSetup\setting-page-option.aspx.cs">
+      <DependentUpon>setting-page-option.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\PageSetup\setting-print-options.aspx.cs">
+      <DependentUpon>setting-print-options.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\PivotTable\create-pivot-chart.aspx.cs">
+      <DependentUpon>create-pivot-chart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\PivotTable\pivot-table-with-multiple-datasource.aspx.cs">
+      <DependentUpon>pivot-table-with-multiple-datasource.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\PivotTable\pivot-table.aspx.cs">
+      <DependentUpon>pivot-table.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\PivotTable\setting-pivot-table-appearance.aspx.cs">
+      <DependentUpon>setting-pivot-table-appearance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\RowsAndColumns\adjusting-rows-and-columns.aspx.cs">
+      <DependentUpon>adjusting-rows-and-columns.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\RowsAndColumns\auto-fit-rows-and-columns.aspx.cs">
+      <DependentUpon>auto-fit-rows-and-columns.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\RowsAndColumns\grouping-rows-and-columns.aspx.cs">
+      <DependentUpon>grouping-rows-and-columns.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\RowsAndColumns\hiding-rows-and-columns.aspx.cs">
+      <DependentUpon>hiding-rows-and-columns.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\RowsAndColumns\inserting-and-deleting-rows-and-columns.aspx.cs">
+      <DependentUpon>inserting-and-deleting-rows-and-columns.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Security\advanced-protection.aspx.cs">
+      <DependentUpon>advanced-protection.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Security\encrypt-an-excel-file.aspx.cs">
+      <DependentUpon>encrypt-an-excel-file.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Security\encrypt-an-excel-file.aspx.designer.cs">
+      <DependentUpon>encrypt-an-excel-file.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workbooks\Security\protecting-worksheet.aspx.cs">
+      <DependentUpon>protecting-worksheet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Security\unprotect-a-worksheet.aspx.cs">
+      <DependentUpon>unprotect-a-worksheet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\adding-document-properties.aspx.cs">
+      <DependentUpon>adding-document-properties.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\copy-and-move-worksheets.aspx.cs">
+      <DependentUpon>copy-and-move-worksheets.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\copy-and-move-worksheets.aspx.designer.cs">
+      <DependentUpon>copy-and-move-worksheets.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\display-hide-gridlines.aspx.cs">
+      <DependentUpon>display-hide-gridlines.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\display-hide-rows-columns.aspx.cs">
+      <DependentUpon>display-hide-rows-columns.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\display-hide-scroll-bars.aspx.cs">
+      <DependentUpon>display-hide-scroll-bars.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\display-hide-tabs.aspx.cs">
+      <DependentUpon>display-hide-tabs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\display-hide-worksheet.aspx.cs">
+      <DependentUpon>display-hide-worksheet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\freeze-panes.aspx.cs">
+      <DependentUpon>freeze-panes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\managing-worksheets.aspx.cs">
+      <DependentUpon>managing-worksheets.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\page-break-preview.aspx.cs">
+      <DependentUpon>page-break-preview.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\setting-background-image-chartsheet.aspx.cs">
+      <DependentUpon>setting-background-image-chartsheet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\split-panes.aspx.cs">
+      <DependentUpon>split-panes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workbooks\Worksheets\zoom-factor.aspx.cs">
+      <DependentUpon>zoom-factor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Content Include="business-reports.aspx" />
+    <Content Include="chart-demos.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax">
+      <SubType>Component</SubType>
+    </Content>
+    <Content Include="northwind.aspx" />
+    <Content Include="school-report.aspx" />
+    <Content Include="smart-marker.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="workbook-demos.aspx" />
+    <Content Include="Workbooks\Controls\adding-checkbox.aspx" />
+    <Content Include="Workbooks\Controls\adding-combobox.aspx" />
+    <Content Include="Workbooks\Controls\adding-radiobutton.aspx" />
+    <Content Include="Workbooks\Controls\adding-textbox.aspx" />
+    <Content Include="Workbooks\DataValidation\date-validation.aspx" />
+    <Content Include="Workbooks\DataValidation\decimal-number-validation.aspx" />
+    <Content Include="Workbooks\DataValidation\list-data-validation.aspx" />
+    <Content Include="Workbooks\DataValidation\text-length-validation.aspx" />
+    <Content Include="Workbooks\DataValidation\time-validation.aspx" />
+    <Content Include="Workbooks\DataValidation\whole-number-validation.aspx" />
+    <Content Include="Workbooks\Data\adding-hyperlinks.aspx" />
+    <Content Include="Workbooks\Data\calculate-formula.aspx" />
+    <Content Include="Workbooks\Data\data-filter.aspx" />
+    <Content Include="Workbooks\Data\data-sorting.aspx" />
+    <Content Include="Workbooks\Data\export-data.aspx" />
+    <Content Include="Workbooks\Data\find-or-search-data.aspx" />
+    <Content Include="Workbooks\Data\hello-world.aspx" />
+    <Content Include="Workbooks\Data\implement-union-and-intersection-of-ranges.aspx" />
+    <Content Include="Workbooks\Data\importing-data.aspx" />
+    <Content Include="Workbooks\Data\named-ranges.aspx" />
+    <Content Include="Workbooks\Data\non-sequenced-named-ranges.aspx" />
+    <Content Include="Workbooks\Data\set-formula.aspx" />
+    <Content Include="Workbooks\Data\using-icustom-function.aspx" />
+    <Content Include="Workbooks\DrawingObjects\adding-comments.aspx" />
+    <Content Include="Workbooks\DrawingObjects\adding-image-from-web.aspx" />
+    <Content Include="Workbooks\DrawingObjects\adding-image-hyperlink.aspx" />
+    <Content Include="Workbooks\DrawingObjects\adding-pictures.aspx" />
+    <Content Include="Workbooks\DrawingObjects\adding-wordart.aspx" />
+    <Content Include="Workbooks\DrawingObjects\extracting-ole-object.aspx" />
+    <Content Include="Workbooks\DrawingObjects\inserting-ole-object.aspx" />
+    <Content Include="Workbooks\DrawingObjects\other-drawing-objects.aspx" />
+    <Content Include="Workbooks\Formatting\alignment-setting.aspx" />
+    <Content Include="Workbooks\Formatting\border-setting.aspx" />
+    <Content Include="Workbooks\Formatting\conditional-formatting.aspx" />
+    <Content Include="Workbooks\Formatting\font-setting.aspx" />
+    <Content Include="Workbooks\Formatting\formatting-range.aspx" />
+    <Content Include="Workbooks\Formatting\merge-unmerge-cells.aspx" />
+    <Content Include="Workbooks\Formatting\modify-existing-style.aspx" />
+    <Content Include="Workbooks\Formatting\number-formatting.aspx" />
+    <Content Include="Workbooks\Formatting\pattern-setting.aspx" />
+    <Content Include="Workbooks\Formatting\rich-text-formatting.aspx" />
+    <Content Include="Workbooks\Formatting\setting-gradient-fill.aspx" />
+    <Content Include="Workbooks\Formatting\superscript-subscript-effects.aspx" />
+    <Content Include="Workbooks\Formatting\text-wrapping.aspx" />
+    <Content Include="Workbooks\ListObject\create-list-object.aspx" />
+    <Content Include="Workbooks\ListObject\format-list-object.aspx" />
+    <Content Include="Workbooks\PageSetup\headers-and-footers.aspx" />
+    <Content Include="Workbooks\PageSetup\page-breaks.aspx" />
+    <Content Include="Workbooks\PageSetup\setting-margins.aspx" />
+    <Content Include="Workbooks\PageSetup\setting-page-option.aspx" />
+    <Content Include="Workbooks\PageSetup\setting-print-options.aspx" />
+    <Content Include="Workbooks\PivotTable\create-pivot-chart.aspx" />
+    <Content Include="Workbooks\PivotTable\pivot-table-with-multiple-datasource.aspx" />
+    <Content Include="Workbooks\PivotTable\pivot-table.aspx" />
+    <Content Include="Workbooks\PivotTable\setting-pivot-table-appearance.aspx" />
+    <Content Include="Workbooks\RowsAndColumns\adjusting-rows-and-columns.aspx" />
+    <Content Include="Workbooks\RowsAndColumns\auto-fit-rows-and-columns.aspx" />
+    <Content Include="Workbooks\RowsAndColumns\grouping-rows-and-columns.aspx" />
+    <Content Include="Workbooks\RowsAndColumns\hiding-rows-and-columns.aspx" />
+    <Content Include="Workbooks\RowsAndColumns\inserting-and-deleting-rows-and-columns.aspx" />
+    <Content Include="Workbooks\Security\advanced-protection.aspx" />
+    <Content Include="Workbooks\Security\encrypt-an-excel-file.aspx" />
+    <Content Include="Workbooks\Security\protecting-worksheet.aspx" />
+    <Content Include="Workbooks\Security\unprotect-a-worksheet.aspx" />
+    <Content Include="Workbooks\Worksheets\adding-document-properties.aspx" />
+    <Content Include="Workbooks\Worksheets\copy-and-move-worksheets.aspx" />
+    <Content Include="Workbooks\Worksheets\display-hide-gridlines.aspx" />
+    <Content Include="Workbooks\Worksheets\display-hide-rows-columns.aspx" />
+    <Content Include="Workbooks\Worksheets\display-hide-scroll-bars.aspx" />
+    <Content Include="Workbooks\Worksheets\display-hide-tabs.aspx" />
+    <Content Include="Workbooks\Worksheets\display-hide-worksheet.aspx" />
+    <Content Include="Workbooks\Worksheets\freeze-panes.aspx" />
+    <Content Include="Workbooks\Worksheets\managing-worksheets.aspx" />
+    <Content Include="Workbooks\Worksheets\page-break-preview.aspx" />
+    <Content Include="Workbooks\Worksheets\setting-background-image-chartsheet.aspx" />
+    <Content Include="Workbooks\Worksheets\split-panes.aspx" />
+    <Content Include="Workbooks\Worksheets\zoom-factor.aspx" />
+    <Content Include="worksheets.aspx" />
+    <EmbeddedResource Include="chart-demos.aspx.resx">
+      <DependentUpon>chart-demos.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\AreaCharts\area.aspx.resx">
+      <DependentUpon>Area.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\AreaCharts\percent-stacked-area.aspx.resx">
+      <DependentUpon>percent-stacked-area.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\AreaCharts\stacked-area.aspx.resx">
+      <DependentUpon>stacked-area.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\BarCharts\clustered-bar.aspx.resx">
+      <DependentUpon>clustered-bar.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\BarCharts\percent-stacked-bar.aspx.resx">
+      <DependentUpon>percent-stacked-bar.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\BarCharts\stacked-bar.aspx.resx">
+      <DependentUpon>stacked-bar.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\ColumnCharts\clustered-column.aspx.resx">
+      <DependentUpon>clustered-column.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\ColumnCharts\column-3d.aspx.resx">
+      <DependentUpon>column-3d.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\ColumnCharts\percent-stacked-column.aspx.resx">
+      <DependentUpon>percent-stacked-column.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\ColumnCharts\stacked-column.aspx.resx">
+      <DependentUpon>stacked-column.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\ConeCharts\cone-bar.aspx.resx">
+      <DependentUpon>cone-bar.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\ConeCharts\cone-column-3d.aspx.resx">
+      <DependentUpon>cone-column-3d.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\ConeCharts\cone-column.aspx.resx">
+      <DependentUpon>cone-column.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\ConeCharts\cone-percent-stacked.aspx.resx">
+      <DependentUpon>cone-percent-stacked.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\CylinderCharts\cylinder-bar.aspx.resx">
+      <DependentUpon>cylinder-bar.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\CylinderCharts\cylinder-column.aspx.resx">
+      <DependentUpon>cylinder-column.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\CylinderCharts\cylinder-percent-stacked.aspx.resx">
+      <DependentUpon>cylinder-percent-stacked.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\CylinderCharts\cylinderical-column-3d.aspx.resx">
+      <DependentUpon>cylinderical-column-3d.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\CylinderConePyramidCharts\bar-chart.aspx.resx">
+      <DependentUpon>bar-chart.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\CylinderConePyramidCharts\column-3d.aspx.resx">
+      <DependentUpon>column-3d.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\CylinderConePyramidCharts\column-chart.aspx.resx">
+      <DependentUpon>column-chart.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\CylinderConePyramidCharts\stacked-100.aspx.resx">
+      <DependentUpon>stacked-100.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\DoughnutCharts\Doughnut.aspx.resx">
+      <DependentUpon>Doughnut.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\DoughnutCharts\exploded-doughnut.aspx.resx">
+      <DependentUpon>exploded-doughnut.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\LineCharts\line-3d.aspx.resx">
+      <DependentUpon>line-3d.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\LineCharts\Line.aspx.resx">
+      <DependentUpon>Line.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\LineCharts\percent-stacked-line.aspx.resx">
+      <DependentUpon>percent-stacked-line.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\LineCharts\stacked-line.aspx.resx">
+      <DependentUpon>stacked-line.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\PieCharts\bar-of-pie.aspx.resx">
+      <DependentUpon>bar-of-pie.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\PieCharts\exploded-pie.aspx.resx">
+      <DependentUpon>exploded-pie.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\PieCharts\pie-of-pie.aspx.resx">
+      <DependentUpon>pie-of-pie.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\PieCharts\Pie.aspx.resx">
+      <DependentUpon>Pie.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\PyramidCharts\pyramid-bar.aspx.resx">
+      <DependentUpon>pyramid-bar.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\PyramidCharts\pyramid-column-3d.aspx.resx">
+      <DependentUpon>pyramid-column-3d.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\PyramidCharts\pyramid-column.aspx.resx">
+      <DependentUpon>pyramid-column.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\PyramidCharts\pyramid-percent-stacked.aspx.resx">
+      <DependentUpon>pyramid-percent-stacked.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\RadarCharts\filled-radar.aspx.resx">
+      <DependentUpon>filled-radar.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\RadarCharts\Radar.aspx.resx">
+      <DependentUpon>Radar.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\ScatterCharts\scatter-connected-by-lines.aspx.resx">
+      <DependentUpon>scatter-connected-by-lines.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\ScatterCharts\Scatter.aspx.resx">
+      <DependentUpon>Scatter.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\StockCharts\high-low-close.aspx.resx">
+      <DependentUpon>high-low-close.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\StockCharts\open-high-low-close.aspx.resx">
+      <DependentUpon>open-high-low-close.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\SurfaceCharts\Contour.aspx.resx">
+      <DependentUpon>Contour.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartTypes\SurfaceCharts\surface-3d.aspx.resx">
+      <DependentUpon>surface-3d.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Default.aspx.resx">
+      <DependentUpon>Default.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Global.asax.resx">
+      <DependentUpon>Global.asax.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NorthWind.aspx.resx">
+      <DependentUpon>Northwind.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="school-report.aspx.resx">
+      <DependentUpon>school-report.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="smart-marker.aspx.resx">
+      <DependentUpon>smart-marker.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="workbook-demos.aspx.resx">
+      <DependentUpon>workbook-demos.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Designer\book1.xls" />
+    <None Include="Designer\FinancialPlan.xls" />
+    <None Include="Designer\FinancialPlan.xlsx" />
+    <None Include="Designer\MyTestBook1.xls" />
+    <None Include="Designer\Northwind.xls" />
+    <None Include="Designer\OleFile.xls" />
+    <None Include="Designer\SchoolData.xls" />
+    <None Include="Designer\SmartMarkerDesigner.xls" />
+    <None Include="Designer\Workbooks\AlignmentSetting.xls" />
+    <None Include="Designer\Workbooks\BkRanges.xls" />
+    <None Include="Designer\Workbooks\CalculateFormula.xls" />
+    <None Include="Designer\Workbooks\Copy_Move.xls" />
+    <None Include="Designer\Workbooks\DataValidation.xls" />
+    <None Include="Designer\Workbooks\Formula.xls" />
+    <None Include="Designer\Workbooks\GroupingRowsAndColumns.xls" />
+    <None Include="Designer\Workbooks\HelloWorld.xls" />
+    <None Include="Designer\Workbooks\ListObject.xls" />
+    <None Include="Designer\Workbooks\ManagingWorksheets.xls" />
+    <None Include="Designer\Workbooks\MergeCells.xls" />
+    <None Include="Designer\Workbooks\MyTestBook1.xls" />
+    <None Include="Designer\Workbooks\NumberFormatting.xls" />
+    <None Include="Designer\Workbooks\PivotSource.xls" />
+    <None Include="Designer\Workbooks\ProtectingWorksheet.xls" />
+    <None Include="Designer\Workbooks\UnGroupingRowsAndColumns.xls" />
+    <None Include="Designer\Workbooks\unsorted.xls" />
+    <None Include="file\DateAndTime.xls" />
+    <None Include="file\EmployeeSales.xls" />
+    <None Include="file\ExportDataTable.xls" />
+    <None Include="file\Formula.xls" />
+    <None Include="file\FreezePane.xls" />
+    <None Include="file\Hyperlink.xls" />
+    <None Include="file\Input.xls" />
+    <None Include="file\List.xls" />
+    <None Include="file\Logical.xls" />
+    <None Include="file\Math.xls" />
+    <None Include="file\PivotTable.xls" />
+    <None Include="file\ShowHeaderBar.xls" />
+    <None Include="file\Skins.xls" />
+    <None Include="file\Statistical.xls" />
+    <None Include="file\TextAndData.xls" />
+    <None Include="images\Thumbs.db" />
+    <None Include="images\tree\Thumbs.db" />
+    <None Include="Image\Thumbs.db" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v8.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1746</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

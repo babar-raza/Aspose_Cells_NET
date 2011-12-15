@@ -1,0 +1,24 @@
+<table width="90%" align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="19" valign="top"><img src="/Common/images/heading_lft.jpg" alt="" width="19" height="41" /></td>
+    <td width="100%" class="demos-heading-bg"><h2 class="demos-heading-bg"> 
+    &nbsp;<font face="Arial" size="4">Zoom Factor - Aspose.Cells</font></h2></td>
+    <td width="19" valign="top"><img src="/Common/images/heading_rt.jpg" alt="" width="19" height="41" /></td>
+  </tr>
+</table>
+<p class="componentDescriptionTxt">
+<font face="Arial" size="2">This online demo exhibits how to set <b>Zoom</b> or <b>Scaling Factor</b> of the worksheets
+in a workbook using
+<a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+Aspose.Cells</a> for .NET.</font></p>
+<p class="componentDescriptionTxt">
+<font face="Arial" size="2">Aspose.Cells component provides the feature to set the zoom
+or scaling factor of the worksheets. The feature helps you to implement smaller
+or larger views to show the contents of your worksheet which may demand you at some
+occasions. The demo provides you a drop down list and a command button to implement
+the scaling factor. You may select a value from the drop down list which represents
+a percentage zoom factor value and click the button to generate the resultant report.
+It is to be noted that the percentage value you give should be b/w 10 and 400. You can
+either open the resultant excel file into MS Excel or save directly to your disk.
+</font>
+</p>

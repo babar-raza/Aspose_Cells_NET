@@ -1,0 +1,68 @@
+<table width="90%" align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="19" valign="top"><img src="/Common/images/heading_lft.jpg" alt="" width="19" height="41" /></td>
+    <td width="100%" class="demos-heading-bg"><h2 class="demos-heading-bg">&nbsp;<font face="Arial" size="4">Percent Stacked Line - Aspose.Cells</font></h2></td>
+    <td width="19" valign="top"><img src="/Common/images/heading_rt.jpg" alt="" width="19" height="41" /></td>
+  </tr>
+</table>
+<p align="left">
+    <font color="black" face="Arial" style="background-color: whitesmoke">
+    <span style="color: black;
+                                    mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US;
+                                    mso-bidi-language: AR-SA; background-color:white">
+    <font size="2">This online demo demonstrates how to create a 
+    <span style="mso-bidi-font-weight: normal">
+                                        100% Stacked Line</span> chart in a worksheet
+    </font> </span></font>
+    <font size="2">
+    <span
+                style="font-family: Arial">using </span>
+    <font face="Arial">
+<a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+Aspose.Cells</a> for .NET</font></font><span
+                style="font-family: Arial"><font size="2">.</font></span></p>
+<p align="left">
+    <font color="black" face="Arial" style="background-color: whitesmoke" size="2">
+    <span style="background-color: white; color:black; mso-fareast-font-family:Times New Roman; mso-ansi-language:EN-US; mso-fareast-language:EN-US; mso-bidi-language:AR-SA"><span style="color: black; mso-fareast-font-family: 'Times New Roman';
+                                            mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;
+                                            mso-bidi-font-weight: bold; mso-bidi-font-size: 11.0pt">This type of chart displays
+                                            the trend of the percentage each value contributes over time or categories. It is
+                                            also available with markers displayed at each data value.</span><span style="color: black;
+                                                mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US;
+                                                mso-bidi-language: AR-SA"> 
+    <span style="mso-bidi-font-weight: normal">Aspose.Cells</span> is a powerful 
+    component, which supports all the standard and custom charts to help you 
+    display data in more meaningful ways. The demo creates a workbook first and inputs some chart related data into the first
+                                                five columns (<span style="mso-bidi-font-weight: normal">A</span>, 
+    <span style="mso-bidi-font-weight: normal">
+                                                    B</span>,<span style="mso-bidi-font-weight: normal"> C</span>,<span style="mso-bidi-font-weight: normal">
+                                                        D </span>and<span style="mso-bidi-font-weight: normal"> E</span>) of the first worksheet
+                                                named 
+    <span style="mso-bidi-font-weight: normal">Data</span>. The first column represents
+                                                the product names (<span style="mso-bidi-font-weight: normal">Product1</span>, 
+    <span style="mso-bidi-font-weight: normal">
+                                                    Product2</span> and 
+    <span style="mso-bidi-font-weight: normal">Product3</span>) where
+                                                as the second, third, fourth and fifth columns represent percentage values involving
+                                                different quarters (<span style="mso-bidi-font-weight: normal">Qurarter1</span>, 
+    <span style="mso-bidi-font-weight: normal">
+                                                    Quarter2</span>, 
+    <span style="mso-bidi-font-weight: normal">Quarter3</span> and 
+    <span style="mso-bidi-font-weight: normal">
+                                                        Quarter4</span>).  </span></span></font></p>
+<p align="left">
+    <font color="black" face="Arial" style="background-color: whitesmoke" size="2">
+    <span style="color: black;
+                                                mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US;
+                                                mso-bidi-language: AR-SA; background-color:white">The demo creates a 100% stacked line chart representing 
+    <span style="mso-bidi-font-weight: normal">
+                                                            Product contribution to total sales</span> into the second worksheet named
+                                                <span style="mso-bidi-font-weight: normal">Chart</span> based on the different product
+                                                values related to different quarters in the first worksheet. In the 
+    demo, you
+                                                have been provided a sample snapshot of the chart, a drop down list that represents
+                                                whether you want to create the chart with data markers and a command button labeled
+                                                <span style="mso-bidi-font-weight: normal">Create Report</span> to create and exercise
+                                                the chart based on the selection from the drop down list. You can either open the
+                                                resultant excel file into MS Excel or save directly to your disk to check the
+                                                results.</span></font></p>

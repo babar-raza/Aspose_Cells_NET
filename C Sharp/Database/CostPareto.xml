@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:Locale="zh-CN">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Cost_x0020_Center" type="xs:string" minOccurs="0" />
+                <xs:element name="Annual_x0020_Cost" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <Cost_x0020_Center>Parts and materials</Cost_x0020_Center>
+    <Annual_x0020_Cost>1325000</Annual_x0020_Cost>
+  </Table>
+  <Table>
+    <Cost_x0020_Center>Manufacturing equipment</Cost_x0020_Center>
+    <Annual_x0020_Cost>900500</Annual_x0020_Cost>
+  </Table>
+  <Table>
+    <Cost_x0020_Center>Salaries</Cost_x0020_Center>
+    <Annual_x0020_Cost>575000</Annual_x0020_Cost>
+  </Table>
+  <Table>
+    <Cost_x0020_Center>Maintenance</Cost_x0020_Center>
+    <Annual_x0020_Cost>395000</Annual_x0020_Cost>
+  </Table>
+  <Table>
+    <Cost_x0020_Center>Office lease</Cost_x0020_Center>
+    <Annual_x0020_Cost>295000</Annual_x0020_Cost>
+  </Table>
+  <Table>
+    <Cost_x0020_Center>Warehouse lease</Cost_x0020_Center>
+    <Annual_x0020_Cost>250000</Annual_x0020_Cost>
+  </Table>
+  <Table>
+    <Cost_x0020_Center>Insurance</Cost_x0020_Center>
+    <Annual_x0020_Cost>180000</Annual_x0020_Cost>
+  </Table>
+  <Table>
+    <Cost_x0020_Center>Benefits and pensions</Cost_x0020_Center>
+    <Annual_x0020_Cost>130000</Annual_x0020_Cost>
+  </Table>
+  <Table>
+    <Cost_x0020_Center>Vehicles</Cost_x0020_Center>
+    <Annual_x0020_Cost>125000</Annual_x0020_Cost>
+  </Table>
+  <Table>
+    <Cost_x0020_Center>Research</Cost_x0020_Center>
+    <Annual_x0020_Cost>75000</Annual_x0020_Cost>
+  </Table>
+</NewDataSet>

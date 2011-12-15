@@ -1,0 +1,236 @@
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\bin\Aspose.Cells.Demos.dll
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\bin\Aspose.Cells.Demos.pdb
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\ResolveAssemblyReference.cache
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ChartDemos.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.Area.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.PercentStackedArea.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.StackedArea.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ClusteredBar.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.PercentStackedBar.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.StackedBar.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ClusteredColumn.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.Column3D.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.PercentStackedColumn.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.StackedColumn.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ConeBar.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ConeColumn3D.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ConeColumn.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ConePercentStacked.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.CylinderBar.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.CylinderColumn.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.CylinderPercentStacked.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.CylindericalColumn3D.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.BarChart.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ChartTypes._3DCharts.Column3D.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ColumnChart.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ChartTypes._3DCharts.Stacked100.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.Doughnut.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ExplodedDoughnut.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.Line3D.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.Line.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.PercentStackedLine.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.StackedLine.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.BarofPie.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ExplodedPie.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.PieofPie.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.Pie.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.PyramidBar.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.PyramidColumn3D.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.PyramidColumn.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.PyramidPercentStacked.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.FilledRadar.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.Radar.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.ScatterConnectedByLines.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.Scatter.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.HighLowClose.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.OpenHighLowClose.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.Contour.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.Surface3D.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos._Default.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.Global.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.NorthwindPage.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.SchoolReport.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.SmartMarkerPage.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.WorkbookDemos.resources
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.dll
+D:\pptx\Aspose.Slides\NewDemos\Aspose.Cells.Demos VB\obj\Debug\Aspose.Cells.Demos.pdb
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\bin\Aspose.Cells.Demos.dll
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\bin\Aspose.Cells.Demos.pdb
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\bin\Aspose.Cells.dll
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\bin\Aspose.Cells.GridWeb.dll
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\bin\Aspose.Cells.xml
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\bin\Aspose.Cells.GridWeb.xml
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\ResolveAssemblyReference.cache
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ChartDemos.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.Area.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.PercentStackedArea.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.StackedArea.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ClusteredBar.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.PercentStackedBar.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.StackedBar.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ClusteredColumn.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.Column3D.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.PercentStackedColumn.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.StackedColumn.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ConeBar.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ConeColumn3D.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ConeColumn.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ConePercentStacked.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.CylinderBar.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.CylinderColumn.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.CylinderPercentStacked.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.CylindericalColumn3D.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.BarChart.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ChartTypes._3DCharts.Column3D.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ColumnChart.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ChartTypes._3DCharts.Stacked100.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.Doughnut.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ExplodedDoughnut.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.Line3D.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.Line.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.PercentStackedLine.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.StackedLine.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.BarofPie.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ExplodedPie.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.PieofPie.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.Pie.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.PyramidBar.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.PyramidColumn3D.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.PyramidColumn.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.PyramidPercentStacked.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.FilledRadar.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.Radar.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.ScatterConnectedByLines.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.Scatter.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.HighLowClose.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.OpenHighLowClose.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.Contour.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.Surface3D.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos._Default.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.Global.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.NorthwindPage.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.SchoolReport.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.SmartMarkerPage.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.WorkbookDemos.resources
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.dll
+D:\Demos\Shakeel\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\Aspose.Cells.Demos-VB.NET-VS-2005-2008-2010\obj\Debug\Aspose.Cells.Demos.pdb
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\bin\Aspose.Cells.Demos.dll
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\bin\Aspose.Cells.Demos.pdb
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\ResolveAssemblyReference.cache
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ChartDemos.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.Area.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.PercentStackedArea.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.StackedArea.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ClusteredBar.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.PercentStackedBar.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.StackedBar.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ClusteredColumn.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.Column3D.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.PercentStackedColumn.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.StackedColumn.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ConeBar.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ConeColumn3D.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ConeColumn.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ConePercentStacked.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.CylinderBar.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.CylinderColumn.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.CylinderPercentStacked.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.CylindericalColumn3D.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.BarChart.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ChartTypes._3DCharts.Column3D.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ColumnChart.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ChartTypes._3DCharts.Stacked100.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.Doughnut.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ExplodedDoughnut.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.Line3D.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.Line.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.PercentStackedLine.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.StackedLine.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.BarofPie.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ExplodedPie.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.PieofPie.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.Pie.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.PyramidBar.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.PyramidColumn3D.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.PyramidColumn.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.PyramidPercentStacked.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.FilledRadar.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.Radar.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.ScatterConnectedByLines.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.Scatter.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.HighLowClose.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.OpenHighLowClose.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.Contour.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.Surface3D.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos._Default.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.Global.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.NorthwindPage.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.SchoolReport.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.SmartMarkerPage.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.WorkbookDemos.resources
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\GenerateResource.read.1.tlog
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\GenerateResource.write.1.tlog
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.dll
+F:\Aspose\Demos\Sabir VB.NET\Aspose.Cells.Demos.VB.NET\obj\Debug\Aspose.Cells.Demos.pdb
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\bin\Aspose.Cells.Demos.dll
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\bin\Aspose.Cells.Demos.pdb
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\ResolveAssemblyReference.cache
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ChartDemos.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.Area.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.PercentStackedArea.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.StackedArea.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ClusteredBar.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.PercentStackedBar.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.StackedBar.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ClusteredColumn.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.Column3D.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.PercentStackedColumn.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.StackedColumn.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ConeBar.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ConeColumn3D.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ConeColumn.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ConePercentStacked.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.CylinderBar.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.CylinderColumn.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.CylinderPercentStacked.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.CylindericalColumn3D.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.BarChart.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ChartTypes._3DCharts.Column3D.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ColumnChart.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ChartTypes._3DCharts.Stacked100.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.Doughnut.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ExplodedDoughnut.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.Line3D.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.Line.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.PercentStackedLine.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.StackedLine.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.BarofPie.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ExplodedPie.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.PieofPie.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.Pie.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.PyramidBar.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.PyramidColumn3D.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.PyramidColumn.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.PyramidPercentStacked.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.FilledRadar.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.Radar.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.ScatterConnectedByLines.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.Scatter.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.HighLowClose.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.OpenHighLowClose.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.Contour.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.Surface3D.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos._Default.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.Global.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.NorthwindPage.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.SchoolReport.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.SmartMarkerPage.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.WorkbookDemos.resources
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\GenerateResource.read.1.tlog
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\GenerateResource.write.1.tlog
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.dll
+F:\Shak-Data-RW\Aspose\Demos\NET Demos\Visual Basic\Aspose.Cells.VB.NET.Demos\obj\Debug\Aspose.Cells.Demos.pdb

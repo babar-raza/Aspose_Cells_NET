@@ -1,0 +1,24 @@
+<table width="90%" align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="19" valign="top"><img src="/Common/images/heading_lft.jpg" alt="" width="19" height="41" /></td>
+    <td width="100%" class="demos-heading-bg"><h2 class="demos-heading-bg"> 
+    &nbsp;<font face="Arial" size="4">Hide and Unhide - Aspose.Cells</font></h2></td>
+    <td width="19" valign="top"><img src="/Common/images/heading_rt.jpg" alt="" width="19" height="41" /></td>
+  </tr>
+</table>
+<p class="componentDescriptionTxt">
+<font face="Arial" size="2">This online demo demonstrates how to hide / unhide rows and column in a worksheet 
+using
+<a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+Aspose.Cells</a> for .NET.</font></p>
+<p class="componentDescriptionTxt">
+<font face="Arial" size="2">Aspose.Cells component allows you to hide / unhide specific rows and columns in 
+the worksheet. In the demo you are provided two command buttons Display and Hide for
+practice. It creates an excel file and input some data into different cells (A1,
+    A2, A3, B1, B2, B3) of the first worksheet. When you click Hide button, It 
+hides the third row and second column of the worksheet. When you click Display 
+button, It un-hides the third row and second column with
+certain row height and column width and display all the data in the worksheet. You
+can either open the resultant excel files into MS Excel or save directly to your
+disk. </font>
+</p>

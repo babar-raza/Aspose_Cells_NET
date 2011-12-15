@@ -1,0 +1,23 @@
+<table width="90%" align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="19" valign="top"><img src="/Common/images/heading_lft.jpg" alt="" width="19" height="41" /></td>
+    <td width="100%" class="demos-heading-bg"><h2 class="demos-heading-bg"> 
+    &nbsp;<font size="4" face="Arial">Formatting Rows &amp; Columns - Aspose.Cells</font></h2></td>
+    <td width="19" valign="top"><img src="/Common/images/heading_rt.jpg" alt="" width="19" height="41" /></td>
+  </tr>
+</table>
+<p class="componentDescriptionTxt">
+<font face="Arial" size="2">This online demo shows how to implement format settings to a row or column in a worksheet using
+<a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+Aspose.Cells</a> for .NET. </font>
+</p>
+<p class="componentDescriptionTxt">
+<font face="Arial" size="2">You can format a complete row or column and
+a range of cells too with a few lines of code using Aspose.Cells APIs. The demo creates an excel file, puts some string data into A1 and A2,
+puts a numeric value into B1 cell. It also applies some font attributes
+(font color and strikeout) and pattern settings to these cells. The demo
+then, creates a style which specifies that all the text will be bold.
+It then, applies this style to the first row and first column of the first
+worksheet. You can either open the resultant excel file into MS Excel or
+save directly to your disk. </font>
+</p>
