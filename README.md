@@ -25,7 +25,7 @@ These example projects provide helpful demonstrations and code when using Aspose
 Each example is provided in both C# and Visual Basic in their respective folders.
 
 ###Data
-+ Input Documents - Each example contains a File directory which contains any input Excel Documents used in the example.
++ Input Documents - Main directory has a File directory which contains all the input Excel Documents used in these examples.
 + Northwind.mdb - Many examples use this Microsoft Access Database found under the "Database" directory for demonstrating merging data into documents.
 
 
