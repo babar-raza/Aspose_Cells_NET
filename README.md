@@ -22,10 +22,10 @@ These example projects provide helpful demonstrations and code when using Aspose
 
 ###Code
 
-All examples are contained in separate folders at the root of the repository. Each example is provided in both C# and Visual Basic. Each example contains a example.cs or example.vb code file. The main entry point for the examples is always found in this file.
+Each example is provided in both C# and Visual Basic in their respective folders.
 
 ###Data
-+ Input Documents - Each example contains a Data directory which contains any input Word Documents used in the example.
++ Input Documents - Each example contains a File directory which contains any input Excel Documents used in the example.
 + Northwind.mdb - Many examples use this Microsoft Access Database found under the "Database" directory for demonstrating merging data into documents.
 
 
