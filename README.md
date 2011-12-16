@@ -26,12 +26,12 @@ Each example is provided in both C# and Visual Basic in their respective folders
 
 <table>
   <tr><th>Example<th>Description</th></tr>
-  <tr><td>QuickStart Demos</td><td>These demos are quick start tutorials for Aspose.Cells. After you check the source code, you will find how easy to use Aspose.Cells in your applications.</td></tr>
-  <tr><td>Chart Demos</td><td>Describe how to create different charts. It will give you an overview of some standard chart types and their subtypes.</td></tr>
-  <tr><td>SchoolReport Card</td><td>Generates a report card spreadsheet using a fictitious set of data.</td></tr>
-  <tr><td>Northwind Demos</td><td>These demos illustrate how to create the most diverse reports similar to those contained in Microsoft Access Northwind Sample Database using Aspose.Cells component.</td></tr>
-  <tr><td>Business Reports</td><td>These demos illustrate how to create Financial Plan and Cost Pareto chart reports similar to business reports template files contained in Microsoft website.</td></tr>
-  <tr><td>Smart Marker</td><td>The demo illustrates how to create data reports with just a few lines of code based on Smart Marker technique.</td></tr>
+  <tr><td>QuickStart</td><td>These examples are quick start tutorials for Aspose.Cells. After you check the source code, you will find how easy it is to use Aspose.Cells in your applications.</td></tr>
+  <tr><td>Charts</td><td>These examples describe how to create different charts. It will give you an overview of some standard chart types and their subtypes.</td></tr>
+  <tr><td>SchoolReport Card</td><td>These examples generate a report card spreadsheet using a fictitious set of data.</td></tr>
+  <tr><td>Northwind</td><td>These examples illustrate how to create the most diverse reports similar to those contained in Microsoft Access Northwind Sample Database using Aspose.Cells component.</td></tr>
+  <tr><td>Business Reports</td><td>These examples illustrate how to create Financial Plan and Cost Pareto chart reports similar to business reports template files contained in Microsoft website.</td></tr>
+  <tr><td>Smart Marker</td><td>These examples illustrate how to create data reports with just a few lines of code based on Smart Marker technique.</td></tr>
 </table>
 
 ###Data
