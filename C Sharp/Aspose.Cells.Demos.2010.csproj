@@ -102,6 +102,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conversion\worksheet-to-svg-format.aspx.cs">
+      <DependentUpon>worksheet-to-svg-format.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\worksheet-to-svg-format.aspx.designer.cs">
+      <DependentUpon>worksheet-to-svg-format.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Workbooks\Controls\adding-checkbox.aspx.cs">
       <DependentUpon>adding-checkbox.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -430,6 +437,7 @@
     <Content Include="Conversion\adding-pdf-bookmarks.aspx" />
     <Content Include="Conversion\convert-workbook-to-image.aspx" />
     <Content Include="Conversion\worksheet-to-image-with-imageoptions.aspx" />
+    <Content Include="Conversion\worksheet-to-svg-format.aspx" />
     <Content Include="Description\conversion.html" />
     <Content Include="Description\Conversion\convert-chart-to-image-file.html" />
     <Content Include="Description\Conversion\convert-worksheet-to-image-file.html" />
@@ -1417,6 +1425,7 @@
     <None Include="Designer\MyTestBook1.xls" />
     <None Include="Designer\Northwind.xls" />
     <None Include="Designer\OleFile.xls" />
+    <None Include="Designer\ProductList.xls" />
     <None Include="Designer\SchoolData.xls" />
     <None Include="Designer\SmartMarkerDesigner.xls" />
     <None Include="Designer\Workbooks\AlignmentSetting.xls" />

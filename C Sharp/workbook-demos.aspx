@@ -1,15 +1,173 @@
-<%@ Page Language="c#" Codebehind="workbook-demos.aspx.cs" AutoEventWireup="false"
+<%@ Page Language="c#" CodeBehind="workbook-demos.aspx.cs" AutoEventWireup="false"
     Inherits="Aspose.Cells.Demos.WorkbookDemos" MasterPageFile="~/tpl/Demo.Master"
     Title="Working With Workbook - Apose.Cells" %>
 
 <asp:Content ID="Content" runat="server" ContentPlaceHolderID="MainContent">
-	<p class="productTitle">Quickstart Demos - <a href="default.aspx">Aspose.Cells Demos</a></p>
+    <p class="productTitle">
+        Quickstart Demos - <a href="default.aspx">Aspose.Cells Demos</a></p>
     <p class="componentDescriptionTxt">
         These demos are quick start tutorials for <strong>Aspose.Cells</strong>. After you
         check the source code, you will find how easy to use <strong>Aspose.Cells</strong>
         in your applications.
     </p>
     <div style="text-align: left">
+        <p>
+            <a class="DropDown" href="javascript:ToggleDiv('divExpCollAsst_11')">
+                <img alt="Show" src="Image/blueup.gif" border="0">Conversion</a></p>
+        <div class="demoDivPanelCollapsed" id="divExpCollAsst_11">
+            <ul class="genericList">
+                <li class="genericList">
+                    <p class="productTitle">
+                        <a href="Conversion/convert-workbook-to-pdf-file.aspx">Convert Workbook to Pdf File</a></p>
+                    <p class="componentDescriptionCaption">
+                        Description</p>
+                    <p class="componentDescriptionTxt">
+                        This online demo demonstrates the ability of <a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+                            Aspose.Cells</a> for .NET to convert a workbook to Pdf file.<br />
+                        <br />
+                        The demo utilizes a template file which contains some formatted data. It then converts
+                        the workbook to a Pdf file. You can either open the output file into your Pdf viewer
+                        or save directly to your disk.
+                    </p>
+                </li>
+                <li class="genericList">
+                    <p class="productTitle">
+                        <a href="Conversion/worksheet-to-svg-format.aspx">Convert Worksheet to SVG Format</a></p>
+                    <p class="componentDescriptionCaption">
+                        Description</p>
+                    <p class="componentDescriptionTxt">
+                        This online demo demonstrates the ability of <a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+                            Aspose.Cells</a> for .NET to convert a worksheet to svg format.
+                        <br />
+                        <br />
+                        The demo utilizes a template file which contains some sample data. When you click
+                        on the Process button, it executes a code which converts each worksheet of the source
+                        worbook into svg formats. Finally, the demo shows the links of the output svg files
+                        which you can download and view in Web Browser e.g Internet Explorer or FireFox.
+                    </p>
+                </li>
+                <li class="genericList">
+                    <p class="productTitle">
+                        <a href="Conversion/convert-workbook-to-image.aspx">Convert Workbook to Image</a></p>
+                    <p class="componentDescriptionCaption">
+                        Description</p>
+                    <p class="componentDescriptionTxt">
+                        This online demo demonstrates the ability of <a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+                            Aspose.Cells</a> for .NET to convert a workbook to an image file.<br />
+                        <br />
+                        The demo converts the complete workbook (all worksheets) in to an image file. You
+                        can either open the output image file into your picture viewer or save directly
+                        to your disk.
+                    </p>
+                </li>
+                <li class="genericList">
+                    <p class="productTitle">
+                        <a href="Conversion/convert-chart-to-image-file.aspx">Convert Chart to Image File</a></p>
+                    <p class="componentDescriptionCaption">
+                        Description</p>
+                    <p class="componentDescriptionTxt">
+                        This online demo demonstrates how to convert a Pie chart to image file using <a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+                            Aspose.Cells</a> for .NET API.<br />
+                        <br />
+                        The demo creates a workbook first and inputs the chart source data into the first
+                        two columns (A and B) of the first worksheet. The first column represents the category
+                        data (Region) where as the second column represents the sales data representing
+                        values.<br />
+                        <br />
+                        The demo creates a pie chart dynamically representing Sales By Region into the worksheet
+                        named ChartSheet based on the different sale values related to different regions.
+                        Then, it converts this chart in the first worksheet to image file. You can either
+                        open the resultant image file into your picture viewer or save directly to your
+                        disk.
+                    </p>
+                </li>
+                <li class="genericList">
+                    <p class="productTitle">
+                        <a href="Conversion/adding-pdf-bookmarks.aspx">Adding Pdf Bookmarks</a></p>
+                    <p class="componentDescriptionCaption">
+                        Description</p>
+                    <p class="componentDescriptionTxt">
+                        This online demo demonstrates <b>how to add pdf bookmarks</b> using <a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+                            Aspose.Cells</a> for .NET while converting a workbook to Pdf file.<br />
+                        <br />
+                        Aspose.Cells allows you to add bookmarks for your requirement at runtime. PDF bookmarks
+                        can improve the navigability of longer PDF documents. When adding bookmark links
+                        to other parts of a PDF document, you can have precise control over the exact view
+                        you want, you're not limited to just linking to a page or so. You set up the precise
+                        view by positioning the page as you would like it to be viewed, and then you create
+                        the bookmarks.<br />
+                        <br />
+                        You can either open the output file into your <b>Pdf Viewer</b> or save directly
+                        to your disk.
+                    </p>
+                </li>
+                <li class="genericList">
+                    <p class="productTitle">
+                        <a href="Conversion/chart-to-image-with-imageoptions.aspx">Convert Chart to Image with Image
+                            Options</a></p>
+                    <p class="componentDescriptionCaption">
+                        Description</p>
+                    <p class="componentDescriptionTxt">
+                        This online demo demonstrates the ability of <a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+                            Aspose.Cells</a> for .NET to convert a chart to image file using different image
+                        options.<br />
+                        <br />
+                        In this demo we ceate a chart using some static data. Then different image options
+                        are applied like <b>vertical and horizontal resolution of image</b>, <b>image format</b>
+                        and its <b>TiffCompression</b> etc.The chart is then converted to an image.<br />
+                        <br />
+                        You can either open the output image file into your picture viewer or save directly
+                        to your disk.
+                    </p>
+                </li>
+                <li class="genericList">
+                    <p class="productTitle">
+                        <a href="Conversion/convert-worksheet-to-image-file.aspx">Convert Worksheet to Image File</a></p>
+                    <p class="componentDescriptionCaption">
+                        Description</p>
+                    <p class="componentDescriptionTxt">
+                        This online demo demonstrates the ability of <a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+                            Aspose.Cells</a> for .NET to convert a workbook to Pdf file.<br />
+                        <br />
+                        The demo utilizes a template file which contains some formatted data. It then converts
+            the first worksheet in the workbook to image. You can either open the output image
+            file into your picture viewer or save directly to your disk.
+                    </p>
+                </li>
+                <li class="genericList">
+                    <p class="productTitle">
+                        <a href="Conversion/worksheet-to-image-with-imageoptions.aspx">Convert Worksheet to Image with Image Options</a></p>
+                    <p class="componentDescriptionCaption">
+                        Description</p>
+                    <p class="componentDescriptionTxt">
+                        This online demo demonstrates the ability of <a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+                Aspose.Cells</a> for .NET to convert a worksheet to image file using different
+            image options.<br />
+                        <br />
+                        The demo utilizes a template file which contains some simple data. Then different
+            image options are applied like vertical and horizontal resolution of image, image
+            format and its TiffCompression etc.The worksheet is then converted to an image.
+            You can either open the output image file into your picture viewer or save directly
+            to your disk.
+                    </p>
+                </li>
+                <li class="genericList">
+                    <p class="productTitle">
+                        <a href="Conversion/convert-worksheet-to-image-with-multiple-printarea.aspx">Convert Worksheet to Image with multiple Print Areas</a></p>
+                    <p class="componentDescriptionCaption">
+                        Description</p>
+                    <p class="componentDescriptionTxt">
+                        This online demo demonstrates the ability of <a href="http://www.aspose.com/categories/file-format-components/aspose.cells-for-.net-and-java/default.aspx">
+                Aspose.Cells</a> for .NET to convert a worksheet to image file having multiple
+            print areas.<br />
+                        <br />
+                        The demo converts the worksheet having multiple print areas defined in to an image
+            file. You can either open the output image file into your picture viewer or save
+            directly to your disk.
+                    </p>
+                </li>
+            </ul>
+        </div>
         <p>
             <a class="DropDown" href="javascript:ToggleDiv('divExpCollAsst_1')">
                 <img alt="Show" src="Image/blueup.gif" border="0">Data</a></p>
@@ -326,9 +484,9 @@
                         foreground color specified by a pattern. The example creates a simple excel file.
                         It sets different formatting involving <b>Cell Shading</b> with certain colors and
                         <b>Pattern</b> setting to <b>B1</b> and <b>B2</b> cells in the first worksheet of
-                        a workbook. The Pattern of <b>B2</b> cell is <b>DiagonalCrosshatch </b>here.<b> </b>
-                        You can either open the resultant excel file into MS Excel or save directly to your
-                        disk.</p>
+                        a workbook. The Pattern of <b>B2</b> cell is <b>DiagonalCrosshatch </b>here.<b>
+                        </b>You can either open the resultant excel file into MS Excel or save directly
+                        to your disk.</p>
                 </li>
                 <li class="genericList">
                     <p class="productTitle">
@@ -369,11 +527,11 @@
                         rows and columns in a worksheet. <b>Aspose.Cells</b> component allows you to manipulate
                         rows and columns in the worksheet. You can insert blank cells, rows, and columns
                         and fill them with data. Moreover you can remove any column or row in the worksheet.
-                        In the example you are provided two command buttons <b>Insert</b> and <b>Delete </b>
-                        for practice. When you click <b>Insert</b> button, It creates a spreadsheet and
-                        inputs some data into different cells (<b>A1, A2, A3</b> and <b>B1</b>) of the first
-                        worksheet. It then inserts 10 rows at 4<sup>th</sup> row and inserts a column at
-                        the second column index (<b>B</b>). When you click <b>Delete</b> button, It creates
+                        In the example you are provided two command buttons <b>Insert</b> and <b>Delete
+                        </b>for practice. When you click <b>Insert</b> button, It creates a spreadsheet
+                        and inputs some data into different cells (<b>A1, A2, A3</b> and <b>B1</b>) of the
+                        first worksheet. It then inserts 10 rows at 4<sup>th</sup> row and inserts a column
+                        at the second column index (<b>B</b>). When you click <b>Delete</b> button, It creates
                         a spreadsheet and inputs some data into different cells (<b>A1, A2, B3, B13</b>
                         and <b>C1</b>) of the first worksheet. It then removes 10 rows starting from 3<sup>rd</sup>
                         row and deletes the 3<sup>rd</sup> column (<b>C</b>) from the worksheet. You can
@@ -381,8 +539,8 @@
                 </li>
                 <li class="genericList">
                     <p class="productTitle">
-                        <a href="workbooks/rowsandcolumns/hiding-rows-and-columns.aspx">Hiding/Unhiding Rows and
-                            Columns</a></p>
+                        <a href="workbooks/rowsandcolumns/hiding-rows-and-columns.aspx">Hiding/Unhiding Rows
+                            and Columns</a></p>
                     <p class="componentDescriptionCaption">
                         Description</p>
                     <p class="componentDescriptionTxt">
@@ -403,8 +561,8 @@
                 </li>
                 <li class="genericList">
                     <p class="productTitle">
-                        <a href="workbooks/rowsandcolumns/grouping-rows-and-columns.aspx">Grouping/Ungrouping Rows
-                            and Columns</a></p>
+                        <a href="workbooks/rowsandcolumns/grouping-rows-and-columns.aspx">Grouping/Ungrouping
+                            Rows and Columns</a></p>
                     <p class="componentDescriptionCaption">
                         Description</p>
                     <p class="componentDescriptionTxt">
@@ -426,7 +584,8 @@
                 </li>
                 <li class="genericList">
                     <p class="productTitle">
-                        <a href="workbooks/rowsandcolumns/adjusting-rows-and-columns.aspx">Adjusting Row Height and Column Width</a></p>
+                        <a href="workbooks/rowsandcolumns/adjusting-rows-and-columns.aspx">Adjusting Row Height
+                            and Column Width</a></p>
                     <p class="componentDescriptionCaption">
                         Description</p>
                     <p class="componentDescriptionTxt">
@@ -726,7 +885,8 @@
                 </li>
                 <li class="genericList">
                     <p class="productTitle">
-                        <a href="workbooks/security/advanced-protection.aspx">Advanced Protection Settings Since Excel XP</a></p>
+                        <a href="workbooks/security/advanced-protection.aspx">Advanced Protection Settings Since
+                            Excel XP</a></p>
                     <p class="componentDescriptionCaption">
                         Description</p>
                     <p class="componentDescriptionText">

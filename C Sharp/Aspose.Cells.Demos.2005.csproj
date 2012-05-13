@@ -145,6 +145,7 @@
     <Content Include="ChartTypes\SurfaceCharts\Contour.aspx" />
     <Content Include="ChartTypes\SurfaceCharts\surface-3d.aspx" />
     <Content Include="Conversion\chart-to-image-with-imageoptions.aspx" />
+    <Content Include="Conversion\worksheet-to-svg-format.aspx" />
     <Content Include="Conversion\convert-worksheet-to-image-with-multiple-printarea.aspx" />
     <Content Include="Conversion\adding-pdf-bookmarks.aspx" />
     <Content Include="Conversion\convert-workbook-to-image.aspx" />

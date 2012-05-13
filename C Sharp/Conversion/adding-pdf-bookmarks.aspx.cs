@@ -138,10 +138,9 @@ public partial class AddingPdfBookmarks : System.Web.UI.Page
         pbeRoot.SubEntry.Add(subPbe3);
 
         //Set the PDF Bookmark root object
-        PdfSaveOptions pdfSaveOptions = new PdfSaveOptions();
+        PdfSaveOptions pdfSaveOptions = new PdfSaveOptions(SaveFormat.Pdf);
         pdfSaveOptions.Bookmark = pbeRoot;
 
-        pdfSaveOptions.SaveFormat = SaveFormat.Pdf;
         //Save the workbook as a PDF File
         workbook.Save(HttpContext.Current.Response, "Xls2Pdf.pdf", ContentDisposition.Attachment, pdfSaveOptions);
 

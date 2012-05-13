@@ -1,6 +1,6 @@
 ﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
   <PropertyGroup>
-    <ProductVersion>9.0.21022</ProductVersion>
+    <ProductVersion>9.0.30428</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{33FE8EF4-8ACE-44E3-94F7-7CC523EAFC99}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
@@ -150,6 +150,7 @@
     <Content Include="Conversion\adding-pdf-bookmarks.aspx" />
     <Content Include="Conversion\convert-workbook-to-image.aspx" />
     <Content Include="Conversion\worksheet-to-image-with-imageoptions.aspx" />
+    <Content Include="Conversion\worksheet-to-svg-format.aspx" />
     <Content Include="Description\business-reports.html" />
     <Content Include="Description\BusinessReports\cost-pareto.htm" />
     <Content Include="Description\BusinessReports\financial-plan.htm" />
@@ -661,6 +662,13 @@
     </Compile>
     <Compile Include="Conversion\convert-worksheet-to-image-file.aspx.designer.cs">
       <DependentUpon>convert-worksheet-to-image-file.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Conversion\worksheet-to-svg-format.aspx.cs">
+      <DependentUpon>worksheet-to-svg-format.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Conversion\worksheet-to-svg-format.aspx.designer.cs">
+      <DependentUpon>worksheet-to-svg-format.aspx</DependentUpon>
     </Compile>
     <Compile Include="Database\Catalog.cs" />
     <Compile Include="Database\CatalogSubreport.cs" />
@@ -1475,6 +1483,9 @@
           <IISUrl>
           </IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>
