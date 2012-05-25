@@ -16,7 +16,7 @@ Using Aspose.Cells for .NET in your project gives you the following benefits:
 
 + Minimal Learning Curve
 
-These example projects provide helpful demonstrations and code when using Aspose.Cells for .NET.
+These example projects provide helpful demonstrations and code when using Aspose.Cells for .NET. You will need to [download Aspose.Cells for .NET](http://www.aspose.com/community/files/51/.net-components/aspose.cells-for-.net/default.aspx) separately and it will work in evaluation mode.
 
 ## Aspose.Cells for .NET at a Glance
 ![Aspose.Cells Overview](http://www.aspose.com/Aspose.Cells/Images/product-diagram-aspose.cells-for-.net.jpg "The Main Features of Aspose.Cells for .NET")
